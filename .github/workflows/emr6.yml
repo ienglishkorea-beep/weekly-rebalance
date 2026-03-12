@@ -2,7 +2,7 @@ name: EMR-6 Weekly Rebalance
 
 on:
   schedule:
-    - cron: "0 23 * * 5"
+    - cron: "7 23 * * 5"
   workflow_dispatch:
 
 jobs:
