@@ -1,0 +1,53 @@
+{
+  "as_of_date": "2026-03-11",
+  "positions": [
+    {
+      "ticker": "MU",
+      "name": "MU",
+      "rank": 1,
+      "score": 0.7584,
+      "source_etfs": "SMH",
+      "close": 418.69
+    },
+    {
+      "ticker": "ZIM",
+      "name": "ZIM",
+      "rank": 2,
+      "score": 0.6455,
+      "source_etfs": "SEA",
+      "close": 28.07
+    },
+    {
+      "ticker": "OXY",
+      "name": "OXY",
+      "rank": 3,
+      "score": 0.56,
+      "source_etfs": "XOP",
+      "close": 55.58
+    },
+    {
+      "ticker": "APA",
+      "name": "APA",
+      "rank": 4,
+      "score": 0.5119,
+      "source_etfs": "XOP",
+      "close": 32.97
+    },
+    {
+      "ticker": "AMAT",
+      "name": "AMAT",
+      "rank": 5,
+      "score": 0.5096,
+      "source_etfs": "SMH",
+      "close": 351.07
+    },
+    {
+      "ticker": "HWM",
+      "name": "HWM",
+      "rank": 6,
+      "score": 0.4672,
+      "source_etfs": "ITA",
+      "close": 251.65
+    }
+  ]
+}
