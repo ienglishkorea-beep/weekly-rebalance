@@ -2,7 +2,6 @@ name: EMR-6 Weekly Rebalance
 
 on:
   schedule:
-    # 매주 토요일 08:00 KST = 금요일 23:00 UTC
     - cron: "0 23 * * 5"
   workflow_dispatch:
 
@@ -42,9 +41,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/emr6_current_portfolio.json
-          git add data/emr6_rebalance_log.csv
-          git add data/emr6_history.csv
+          test -f data/emr6_current_portfolio.json && git add data/emr6_current_portfolio.json || true
+          test -f data/emr6_rebalance_log.csv && git add data/emr6_rebalance_log.csv || true
+          test -f data/emr6_history.csv && git add data/emr6_history.csv || true
           git add data/emr6_holdings_cache/*.json || true
 
           git diff --cached --quiet || git commit -m "Update EMR-6 weekly rebalance state"
