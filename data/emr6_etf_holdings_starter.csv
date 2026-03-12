@@ -1,0 +1,79 @@
+etf,ticker,name,weight_pct,source_note
+XLK,NVDA,NVIDIA Corporation,14.67,starter
+XLK,AAPL,Apple Inc.,13.30,starter
+XLK,MSFT,Microsoft Corporation,9.94,starter
+XLK,AVGO,Broadcom Inc.,5.14,starter
+XLE,XOM,Exxon Mobil Corporation,24.05,starter
+XLE,CVX,Chevron Corporation,17.27,starter
+XLE,COP,ConocoPhillips,6.85,starter
+XLE,WMB,The Williams Companies Inc.,4.57,starter
+XLE,SLB,SLB,4.08,starter
+XLF,BRK-B,Berkshire Hathaway Inc.,12.65,starter
+XLF,JPM,JPMorgan Chase & Co.,10.98,starter
+XLF,V,Visa Inc.,7.41,starter
+XLF,MA,Mastercard Incorporated,5.89,starter
+XLF,BAC,Bank of America Corporation,4.56,starter
+XLI,GE,GE Aerospace,6.65,starter
+XLI,CAT,Caterpillar Inc.,6.40,starter
+XLI,RTX,RTX Corporation,5.00,starter
+XLI,GEV,GE Vernova Inc.,4.36,starter
+XLU,NEE,NextEra Energy Inc.,13.31,starter
+XLU,SO,The Southern Company,7.31,starter
+XLU,CEG,Constellation Energy Corporation,7.02,starter
+XLY,AMZN,Amazon.com Inc.,22.24,starter
+XLY,TSLA,Tesla Inc.,19.23,starter
+XLY,HD,The Home Depot Inc.,6.09,starter
+XLY,MCD,McDonald's Corporation,4.97,starter
+XLY,TJX,The TJX Companies Inc.,4.26,starter
+XLP,WMT,Walmart Inc.,11.69,starter
+XLP,COST,Costco Wholesale Corporation,9.41,starter
+XLP,PG,The Procter & Gamble Company,7.76,starter
+XLP,KO,The Coca-Cola Company,6.42,starter
+XLP,PM,Philip Morris International Inc.,5.73,starter
+XLC,META,Meta Platforms Inc.,19.69,starter
+XLC,GOOGL,Alphabet Inc. Class A,10.50,starter
+XLC,GOOG,Alphabet Inc. Class C,8.39,starter
+XLC,VZ,Verizon Communications Inc.,5.68,starter
+XLC,NFLX,Netflix Inc.,5.68,starter
+IGV,MSFT,Microsoft Corporation,9.22,starter
+IGV,PLTR,Palantir Technologies Inc.,8.75,starter
+IGV,ORCL,Oracle Corporation,7.29,starter
+IGV,CRM,Salesforce Inc.,7.29,starter
+IGV,PANW,Palo Alto Networks Inc.,5.27,starter
+IGV,APP,AppLovin Corporation,5.07,starter
+IGV,INTU,Intuit Inc.,4.97,starter
+IGV,ADBE,Adobe Inc.,4.61,starter
+IGV,CRWD,CrowdStrike Holdings Inc.,4.38,starter
+IGV,NOW,ServiceNow Inc.,3.93,starter
+SMH,NVDA,NVIDIA Corporation,17.73,starter
+SMH,TSM,Taiwan Semiconductor Manufacturing Co. Ltd. ADR,11.44,starter
+SMH,AVGO,Broadcom Inc.,6.90,starter
+SMH,MU,Micron Technology Inc.,6.20,starter
+SMH,ASML,ASML Holding N.V. ADR,5.67,starter
+SMH,LRCX,Lam Research Corporation,5.23,starter
+SMH,AMAT,Applied Materials Inc.,5.21,starter
+SMH,KLAC,KLA Corporation,4.80,starter
+SMH,ADI,Analog Devices Inc.,4.71,starter
+SMH,INTC,Intel Corporation,4.70,starter
+SOXX,MU,Micron Technology Inc.,8.61,starter
+SOXX,AMAT,Applied Materials Inc.,7.29,starter
+SOXX,NVDA,NVIDIA Corporation,6.71,starter
+SOXX,AMD,Advanced Micro Devices Inc.,6.00,starter
+PAVE,HWM,Howmet Aerospace Inc.,4.25,starter
+PAVE,PH,Parker-Hannifin Corporation,3.58,starter
+PAVE,PWR,Quanta Services Inc.,3.48,starter
+PAVE,CRH,CRH plc,3.39,starter
+PAVE,DE,Deere & Company,3.39,starter
+QQQ,NVDA,NVIDIA Corporation,8.39,starter
+QQQ,AAPL,Apple Inc.,7.61,starter
+QQQ,MSFT,Microsoft Corporation,5.69,starter
+QQQ,AMZN,Amazon.com Inc.,4.90,starter
+SPY,NVDA,NVIDIA Corporation,7.32,starter
+SPY,AAPL,Apple Inc.,6.63,starter
+SPY,MSFT,Microsoft Corporation,4.96,starter
+SPY,AMZN,Amazon.com Inc.,3.47,starter
+SPY,GOOGL,Alphabet Inc. Class A,3.08,starter
+XRT,CASY,Casey's General Stores Inc.,1.86,starter
+XRT,FIVE,Five Below Inc.,1.82,starter
+XRT,DG,Dollar General Corporation,1.79,starter
+XRT,PSMT,PriceSmart Inc.,1.78,starter
