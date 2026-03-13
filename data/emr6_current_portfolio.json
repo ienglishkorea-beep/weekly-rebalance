@@ -2,58 +2,70 @@
   "as_of_date": "2026-03-12",
   "positions": [
     {
+      "industry": "energy_integrated_ep_refining",
+      "industry_rank": 1,
+      "industry_score": 0.7705,
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "rank": 1,
-      "score": 0.8557,
-      "target_weight": 0.146425,
-      "source_etfs": "XOP",
+      "industry_member_rank": 1,
+      "score": 0.723,
+      "target_weight": 0.145123,
       "close": 58.41
     },
     {
-      "ticker": "ZIM",
-      "name": "ZIM Integrated Shipping",
-      "rank": 2,
-      "score": 0.8043,
-      "target_weight": 0.071636,
-      "source_etfs": "SEA",
-      "close": 27.2
-    },
-    {
-      "ticker": "VAL",
-      "name": "Valaris Ltd",
-      "rank": 3,
-      "score": 0.8027,
-      "target_weight": 0.125662,
-      "source_etfs": "OIH",
-      "close": 92.8
-    },
-    {
-      "ticker": "APA",
-      "name": "APA Corporation",
-      "rank": 4,
-      "score": 0.6955,
-      "target_weight": 0.151729,
-      "source_etfs": "XOP",
-      "close": 33.61
-    },
-    {
+      "industry": "energy_integrated_ep_refining",
+      "industry_rank": 1,
+      "industry_score": 0.7705,
       "ticker": "EOG",
       "name": "EOG Resources",
-      "rank": 9,
-      "score": 0.6472,
-      "target_weight": 0.25458,
-      "source_etfs": "XLE,XOP",
+      "industry_member_rank": 2,
+      "score": 0.5596,
+      "target_weight": 0.252317,
       "close": 133.04
     },
     {
+      "industry": "energy_integrated_ep_refining",
+      "industry_rank": 1,
+      "industry_score": 0.7705,
       "ticker": "COP",
       "name": "ConocoPhillips",
-      "rank": 10,
-      "score": 0.6198,
-      "target_weight": 0.249968,
-      "source_etfs": "XLE,XOP",
+      "industry_member_rank": 3,
+      "score": 0.5205,
+      "target_weight": 0.247746,
       "close": 120.26
+    },
+    {
+      "industry": "shipping_marine",
+      "industry_rank": 2,
+      "industry_score": 0.7502,
+      "ticker": "ZIM",
+      "name": "ZIM Integrated Shipping",
+      "industry_member_rank": 1,
+      "score": 0.6884,
+      "target_weight": 0.070999,
+      "close": 27.2
+    },
+    {
+      "industry": "shipping_marine",
+      "industry_rank": 2,
+      "industry_score": 0.7502,
+      "ticker": "INSW",
+      "name": "International Seaways",
+      "industry_member_rank": 2,
+      "score": 0.5347,
+      "target_weight": 0.149566,
+      "close": 66.74
+    },
+    {
+      "industry": "cloud_network_infra",
+      "industry_rank": 3,
+      "industry_score": 0.7289,
+      "ticker": "VRT",
+      "name": "Vertiv",
+      "industry_member_rank": 1,
+      "score": 0.7374,
+      "target_weight": 0.134249,
+      "close": 265.38
     }
   ]
 }
