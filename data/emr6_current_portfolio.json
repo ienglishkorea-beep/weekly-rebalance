@@ -1,60 +1,60 @@
 {
-  "as_of_date": "2026-03-13",
+  "as_of_date": "2026-03-20",
   "positions": [
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7517,
+      "industry_score": 0.7668,
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "industry_member_rank": 1,
-      "score": 0.7025,
-      "target_weight": 0.169479,
-      "close": 57.88
+      "score": 0.6652,
+      "target_weight": 0.177116,
+      "close": 60.71
     },
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7517,
-      "ticker": "EOG",
-      "name": "EOG Resources",
-      "industry_member_rank": 2,
-      "score": 0.4936,
-      "target_weight": 0.279675,
-      "close": 133.6
-    },
-    {
-      "industry": "energy_integrated_ep_refining",
-      "industry_rank": 1,
-      "industry_score": 0.7517,
+      "industry_score": 0.7668,
       "ticker": "COP",
       "name": "ConocoPhillips",
       "industry_member_rank": 3,
-      "score": 0.4816,
-      "target_weight": 0.272152,
-      "close": 121.89
+      "score": 0.5421,
+      "target_weight": 0.231269,
+      "close": 126.92
     },
     {
-      "industry": "internet_commerce_platforms",
+      "industry": "energy_integrated_ep_refining",
+      "industry_rank": 1,
+      "industry_score": 0.7668,
+      "ticker": "EOG",
+      "name": "EOG Resources",
+      "industry_member_rank": 5,
+      "score": 0.5238,
+      "target_weight": 0.237407,
+      "close": 138.73
+    },
+    {
+      "industry": "consumer_staples_brands",
       "industry_rank": 2,
-      "industry_score": 0.7388,
-      "ticker": "EBAY",
-      "name": "eBay",
+      "industry_score": 0.7288,
+      "ticker": "KR",
+      "name": "Kroger",
       "industry_member_rank": 1,
-      "score": 0.4196,
-      "target_weight": 0.200747,
-      "close": 91.34
+      "score": 0.3973,
+      "target_weight": 0.176798,
+      "close": 73.2
     },
     {
-      "industry": "shipping_marine",
+      "industry": "consumer_retail_offprice_auto",
       "industry_rank": 3,
-      "industry_score": 0.7362,
-      "ticker": "ZIM",
-      "name": "ZIM Integrated Shipping",
+      "industry_score": 0.7187,
+      "ticker": "ROST",
+      "name": "Ross Stores",
       "industry_member_rank": 1,
-      "score": 0.6731,
-      "target_weight": 0.077946,
-      "close": 26.99
+      "score": 0.3748,
+      "target_weight": 0.177409,
+      "close": 211.19
     }
   ]
 }

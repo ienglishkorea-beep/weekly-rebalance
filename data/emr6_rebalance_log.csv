@@ -63,3 +63,10 @@
 2026-03-13,KEEP,COP,ConocoPhillips,,,,0.272152,energy_integrated_ep_refining,1.0,0.7516592042306375,0.4816
 2026-03-13,KEEP,EBAY,eBay,,,,0.200747,internet_commerce_platforms,2.0,0.7388073093960866,0.4196
 2026-03-13,KEEP,ZIM,ZIM Integrated Shipping,,,,0.077946,shipping_marine,3.0,0.7361549344390327,0.6731
+2026-03-20,OUT,EBAY,eBay,,,,0.200747,internet_commerce_platforms,,,0.4196
+2026-03-20,OUT,ZIM,ZIM Integrated Shipping,,,,0.077946,shipping_marine,14.0,0.5040865241643396,0.6731
+2026-03-20,IN,KR,Kroger,,,,0.176798,consumer_staples_brands,2.0,0.7287801740346215,0.3973
+2026-03-20,IN,ROST,Ross Stores,,,,0.177409,consumer_retail_offprice_auto,3.0,0.718674315390583,0.3748
+2026-03-20,KEEP,OXY,Occidental Petroleum,,,,0.177116,energy_integrated_ep_refining,1.0,0.7668164415874048,0.6652
+2026-03-20,KEEP,COP,ConocoPhillips,,,,0.231269,energy_integrated_ep_refining,1.0,0.7668164415874048,0.5421
+2026-03-20,KEEP,EOG,EOG Resources,,,,0.237407,energy_integrated_ep_refining,1.0,0.7668164415874048,0.5238
