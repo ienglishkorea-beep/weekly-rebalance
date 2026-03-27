@@ -1,60 +1,60 @@
 {
-  "as_of_date": "2026-03-20",
+  "as_of_date": "2026-03-27",
   "positions": [
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7668,
+      "industry_score": 0.8331,
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "industry_member_rank": 1,
-      "score": 0.6652,
-      "target_weight": 0.177116,
-      "close": 60.71
+      "score": 0.6963,
+      "target_weight": 0.198594,
+      "close": 65.32
     },
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7668,
-      "ticker": "COP",
-      "name": "ConocoPhillips",
-      "industry_member_rank": 3,
-      "score": 0.5421,
-      "target_weight": 0.231269,
-      "close": 126.92
+      "industry_score": 0.8331,
+      "ticker": "MPC",
+      "name": "Marathon Petroleum",
+      "industry_member_rank": 2,
+      "score": 0.6058,
+      "target_weight": 0.170293,
+      "close": 251.91
     },
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7668,
+      "industry_score": 0.8331,
       "ticker": "EOG",
       "name": "EOG Resources",
       "industry_member_rank": 5,
-      "score": 0.5238,
-      "target_weight": 0.237407,
-      "close": 138.73
+      "score": 0.5591,
+      "target_weight": 0.273295,
+      "close": 149.56
     },
     {
-      "industry": "consumer_staples_brands",
+      "industry": "semiconductor_core",
       "industry_rank": 2,
-      "industry_score": 0.7288,
-      "ticker": "KR",
-      "name": "Kroger",
+      "industry_score": 0.735,
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
       "industry_member_rank": 1,
-      "score": 0.3973,
-      "target_weight": 0.176798,
-      "close": 73.2
+      "score": 0.411,
+      "target_weight": 0.081911,
+      "close": 94.88
     },
     {
-      "industry": "consumer_retail_offprice_auto",
+      "industry": "medical_devices_tools",
       "industry_rank": 3,
-      "industry_score": 0.7187,
-      "ticker": "ROST",
-      "name": "Ross Stores",
+      "industry_score": 0.6513,
+      "ticker": "HOLX",
+      "name": "Hologic",
       "industry_member_rank": 1,
-      "score": 0.3748,
-      "target_weight": 0.177409,
-      "close": 211.19
+      "score": 0.2251,
+      "target_weight": 0.275907,
+      "close": 75.67
     }
   ]
 }
