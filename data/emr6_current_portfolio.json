@@ -1,60 +1,49 @@
 {
-  "as_of_date": "2026-03-27",
+  "as_of_date": "2026-04-02",
   "positions": [
     {
-      "industry": "energy_integrated_ep_refining",
+      "industry": "consumer_staples_brands",
       "industry_rank": 1,
-      "industry_score": 0.8331,
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
+      "industry_score": 0.6988,
+      "ticker": "KR",
+      "name": "Kroger",
       "industry_member_rank": 1,
-      "score": 0.6963,
-      "target_weight": 0.198594,
-      "close": 65.32
-    },
-    {
-      "industry": "energy_integrated_ep_refining",
-      "industry_rank": 1,
-      "industry_score": 0.8331,
-      "ticker": "MPC",
-      "name": "Marathon Petroleum",
-      "industry_member_rank": 2,
-      "score": 0.6058,
-      "target_weight": 0.170293,
-      "close": 251.91
-    },
-    {
-      "industry": "energy_integrated_ep_refining",
-      "industry_rank": 1,
-      "industry_score": 0.8331,
-      "ticker": "EOG",
-      "name": "EOG Resources",
-      "industry_member_rank": 5,
-      "score": 0.5591,
-      "target_weight": 0.273295,
-      "close": 149.56
+      "score": 0.3306,
+      "target_weight": 0.378692,
+      "close": 72.35
     },
     {
       "industry": "semiconductor_core",
       "industry_rank": 2,
-      "industry_score": 0.735,
+      "industry_score": 0.6951,
       "ticker": "MRVL",
       "name": "Marvell Technology",
       "industry_member_rank": 1,
-      "score": 0.411,
-      "target_weight": 0.081911,
-      "close": 94.88
+      "score": 0.5944,
+      "target_weight": 0.119142,
+      "close": 107.11
     },
     {
-      "industry": "medical_devices_tools",
+      "industry": "semiconductor_core",
+      "industry_rank": 2,
+      "industry_score": 0.6951,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "industry_member_rank": 2,
+      "score": 0.2727,
+      "target_weight": 0.205137,
+      "close": 217.5
+    },
+    {
+      "industry": "energy_integrated_ep_refining",
       "industry_rank": 3,
-      "industry_score": 0.6513,
-      "ticker": "HOLX",
-      "name": "Hologic",
+      "industry_score": 0.6735,
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
       "industry_member_rank": 1,
-      "score": 0.2251,
-      "target_weight": 0.275907,
-      "close": 75.67
+      "score": 0.6007,
+      "target_weight": 0.297029,
+      "close": 62.97
     }
   ]
 }

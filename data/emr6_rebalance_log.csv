@@ -78,3 +78,10 @@
 2026-03-27,IN,HOLX,Hologic,,,,0.275907,medical_devices_tools,3.0,0.651313893862349,0.2251
 2026-03-27,KEEP,OXY,Occidental Petroleum,,,,0.198594,energy_integrated_ep_refining,1.0,0.8330659030205134,0.6963
 2026-03-27,KEEP,EOG,EOG Resources,,,,0.273295,energy_integrated_ep_refining,1.0,0.8330659030205134,0.5591
+2026-04-02,OUT,MPC,Marathon Petroleum,,,,0.170293,energy_integrated_ep_refining,3.0,0.6735470758861528,0.6058
+2026-04-02,OUT,EOG,EOG Resources,,,,0.273295,energy_integrated_ep_refining,3.0,0.6735470758861528,0.5591
+2026-04-02,OUT,HOLX,Hologic,,,,0.275907,medical_devices_tools,13.0,0.5122389312642583,0.2251
+2026-04-02,IN,KR,Kroger,,,,0.378692,consumer_staples_brands,1.0,0.6987571183435926,0.3306
+2026-04-02,IN,AMD,Advanced Micro Devices,,,,0.205137,semiconductor_core,2.0,0.6950862470996911,0.2727
+2026-04-02,KEEP,MRVL,Marvell Technology,,,,0.119142,semiconductor_core,2.0,0.6950862470996911,0.5944
+2026-04-02,KEEP,OXY,Occidental Petroleum,,,,0.297029,energy_integrated_ep_refining,3.0,0.6735470758861528,0.6007
