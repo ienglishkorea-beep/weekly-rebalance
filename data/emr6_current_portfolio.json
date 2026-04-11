@@ -1,49 +1,71 @@
 {
-  "as_of_date": "2026-04-02",
+  "as_of_date": "2026-04-10",
   "positions": [
     {
-      "industry": "consumer_staples_brands",
+      "industry": "cloud_network_infra",
       "industry_rank": 1,
-      "industry_score": 0.6988,
-      "ticker": "KR",
-      "name": "Kroger",
+      "industry_score": 0.7391,
+      "ticker": "CIEN",
+      "name": "Ciena",
       "industry_member_rank": 1,
-      "score": 0.3306,
-      "target_weight": 0.378692,
-      "close": 72.35
+      "score": 0.8012,
+      "target_weight": 0.121583,
+      "close": 496.02
     },
     {
-      "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.6951,
-      "ticker": "MRVL",
-      "name": "Marvell Technology",
-      "industry_member_rank": 1,
-      "score": 0.5944,
-      "target_weight": 0.119142,
-      "close": 107.11
-    },
-    {
-      "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.6951,
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
+      "industry": "cloud_network_infra",
+      "industry_rank": 1,
+      "industry_score": 0.7391,
+      "ticker": "GLW",
+      "name": "Corning",
       "industry_member_rank": 2,
-      "score": 0.2727,
-      "target_weight": 0.205137,
-      "close": 217.5
+      "score": 0.6661,
+      "target_weight": 0.153341,
+      "close": 171.24
     },
     {
-      "industry": "energy_integrated_ep_refining",
-      "industry_rank": 3,
-      "industry_score": 0.6735,
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
+      "industry": "cloud_network_infra",
+      "industry_rank": 1,
+      "industry_score": 0.7391,
+      "ticker": "VRT",
+      "name": "Vertiv",
+      "industry_member_rank": 3,
+      "score": 0.5079,
+      "target_weight": 0.175456,
+      "close": 295.11
+    },
+    {
+      "industry": "semicap_eda_ip",
+      "industry_rank": 2,
+      "industry_score": 0.668,
+      "ticker": "FORM",
+      "name": "FormFactor",
       "industry_member_rank": 1,
-      "score": 0.6007,
-      "target_weight": 0.297029,
-      "close": 62.97
+      "score": 0.6635,
+      "target_weight": 0.156171,
+      "close": 123.8
+    },
+    {
+      "industry": "semicap_eda_ip",
+      "industry_rank": 2,
+      "industry_score": 0.668,
+      "ticker": "TER",
+      "name": "Teradyne",
+      "industry_member_rank": 2,
+      "score": 0.5145,
+      "target_weight": 0.159973,
+      "close": 367.99
+    },
+    {
+      "industry": "electrical_power_grid",
+      "industry_rank": 3,
+      "industry_score": 0.646,
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "industry_member_rank": 1,
+      "score": 0.4434,
+      "target_weight": 0.233476,
+      "close": 991.32
     }
   ]
 }

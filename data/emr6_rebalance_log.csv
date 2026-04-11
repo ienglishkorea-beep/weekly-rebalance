@@ -85,3 +85,13 @@
 2026-04-02,IN,AMD,Advanced Micro Devices,,,,0.205137,semiconductor_core,2.0,0.6950862470996911,0.2727
 2026-04-02,KEEP,MRVL,Marvell Technology,,,,0.119142,semiconductor_core,2.0,0.6950862470996911,0.5944
 2026-04-02,KEEP,OXY,Occidental Petroleum,,,,0.297029,energy_integrated_ep_refining,3.0,0.6735470758861528,0.6007
+2026-04-10,OUT,KR,Kroger,,,,0.378692,consumer_staples_brands,13.0,0.519921517536475,0.3306
+2026-04-10,OUT,MRVL,Marvell Technology,,,,0.119142,semiconductor_core,4.0,0.6332476035130646,0.5944
+2026-04-10,OUT,AMD,Advanced Micro Devices,,,,0.205137,semiconductor_core,4.0,0.6332476035130646,0.2727
+2026-04-10,OUT,OXY,Occidental Petroleum,,,,0.297029,energy_integrated_ep_refining,7.0,0.5560764015726306,0.6007
+2026-04-10,IN,CIEN,Ciena,,,,0.121583,cloud_network_infra,1.0,0.739144311312232,0.8012
+2026-04-10,IN,GLW,Corning,,,,0.153341,cloud_network_infra,1.0,0.739144311312232,0.6661
+2026-04-10,IN,VRT,Vertiv,,,,0.175456,cloud_network_infra,1.0,0.739144311312232,0.5079
+2026-04-10,IN,FORM,FormFactor,,,,0.156171,semicap_eda_ip,2.0,0.6679739256725222,0.6635
+2026-04-10,IN,TER,Teradyne,,,,0.159973,semicap_eda_ip,2.0,0.6679739256725222,0.5145
+2026-04-10,IN,GEV,GE Vernova,,,,0.233476,electrical_power_grid,3.0,0.6460121006573366,0.4434
