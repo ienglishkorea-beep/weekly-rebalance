@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-04-10",
+  "as_of_date": "2026-04-17",
   "positions": [
     {
-      "industry": "cloud_network_infra",
-      "industry_rank": 1,
-      "industry_score": 0.7391,
-      "ticker": "CIEN",
-      "name": "Ciena",
-      "industry_member_rank": 1,
-      "score": 0.8012,
-      "target_weight": 0.121583,
-      "close": 496.02
-    },
-    {
-      "industry": "cloud_network_infra",
-      "industry_rank": 1,
-      "industry_score": 0.7391,
-      "ticker": "GLW",
-      "name": "Corning",
-      "industry_member_rank": 2,
-      "score": 0.6661,
-      "target_weight": 0.153341,
-      "close": 171.24
-    },
-    {
-      "industry": "cloud_network_infra",
-      "industry_rank": 1,
-      "industry_score": 0.7391,
-      "ticker": "VRT",
-      "name": "Vertiv",
-      "industry_member_rank": 3,
-      "score": 0.5079,
-      "target_weight": 0.175456,
-      "close": 295.11
-    },
-    {
       "industry": "semicap_eda_ip",
-      "industry_rank": 2,
-      "industry_score": 0.668,
+      "industry_rank": 1,
+      "industry_score": 0.75,
       "ticker": "FORM",
       "name": "FormFactor",
       "industry_member_rank": 1,
-      "score": 0.6635,
-      "target_weight": 0.156171,
-      "close": 123.8
+      "score": 0.7125,
+      "target_weight": 0.16346,
+      "close": 137.21
     },
     {
       "industry": "semicap_eda_ip",
-      "industry_rank": 2,
-      "industry_score": 0.668,
-      "ticker": "TER",
-      "name": "Teradyne",
+      "industry_rank": 1,
+      "industry_score": 0.75,
+      "ticker": "ONTO",
+      "name": "Onto Innovation",
       "industry_member_rank": 2,
-      "score": 0.5145,
-      "target_weight": 0.159973,
-      "close": 367.99
+      "score": 0.5544,
+      "target_weight": 0.164708,
+      "close": 290.76
     },
     {
-      "industry": "electrical_power_grid",
-      "industry_rank": 3,
-      "industry_score": 0.646,
-      "ticker": "GEV",
-      "name": "GE Vernova",
+      "industry": "semicap_eda_ip",
+      "industry_rank": 1,
+      "industry_score": 0.75,
+      "ticker": "TER",
+      "name": "Teradyne",
+      "industry_member_rank": 3,
+      "score": 0.5424,
+      "target_weight": 0.17238,
+      "close": 380.38
+    },
+    {
+      "industry": "semiconductor_core",
+      "industry_rank": 2,
+      "industry_score": 0.7439,
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
       "industry_member_rank": 1,
-      "score": 0.4434,
-      "target_weight": 0.233476,
-      "close": 991.32
+      "score": 0.8184,
+      "target_weight": 0.176692,
+      "close": 139.69
+    },
+    {
+      "industry": "semiconductor_core",
+      "industry_rank": 2,
+      "industry_score": 0.7439,
+      "ticker": "ON",
+      "name": "ON Semiconductor",
+      "industry_member_rank": 2,
+      "score": 0.5278,
+      "target_weight": 0.188153,
+      "close": 83.01
+    },
+    {
+      "industry": "cloud_network_infra",
+      "industry_rank": 3,
+      "industry_score": 0.6939,
+      "ticker": "CIEN",
+      "name": "Ciena",
+      "industry_member_rank": 1,
+      "score": 0.6929,
+      "target_weight": 0.134606,
+      "close": 507.43
     }
   ]
 }
