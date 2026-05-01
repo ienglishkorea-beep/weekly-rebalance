@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-04-24",
+  "as_of_date": "2026-05-01",
   "positions": [
     {
       "industry": "semiconductor_core",
       "industry_rank": 1,
-      "industry_score": 0.8016,
+      "industry_score": 0.8252,
       "ticker": "MRVL",
       "name": "Marvell Technology",
       "industry_member_rank": 1,
-      "score": 0.849,
-      "target_weight": 0.156479,
-      "close": 164.31
+      "score": 0.8028,
+      "target_weight": 0.217924,
+      "close": 164.95
     },
     {
       "industry": "semiconductor_core",
       "industry_rank": 1,
-      "industry_score": 0.8016,
+      "industry_score": 0.8252,
       "ticker": "ON",
       "name": "ON Semiconductor",
       "industry_member_rank": 2,
-      "score": 0.5985,
-      "target_weight": 0.158304,
-      "close": 98.4
+      "score": 0.7073,
+      "target_weight": 0.186402,
+      "close": 103.03
     },
     {
       "industry": "semiconductor_core",
       "industry_rank": 1,
-      "industry_score": 0.8016,
+      "industry_score": 0.8252,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "industry_member_rank": 3,
-      "score": 0.5262,
-      "target_weight": 0.183057,
-      "close": 347.81
+      "score": 0.6582,
+      "target_weight": 0.166045,
+      "close": 360.54
     },
     {
       "industry": "semicap_eda_ip",
       "industry_rank": 2,
-      "industry_score": 0.7034,
+      "industry_score": 0.6877,
       "ticker": "FORM",
       "name": "FormFactor",
       "industry_member_rank": 1,
-      "score": 0.707,
-      "target_weight": 0.171624,
-      "close": 155.08
+      "score": 0.6581,
+      "target_weight": 0.155758,
+      "close": 137.37
     },
     {
       "industry": "semicap_eda_ip",
       "industry_rank": 2,
-      "industry_score": 0.7034,
+      "industry_score": 0.6877,
       "ticker": "TER",
       "name": "Teradyne",
-      "industry_member_rank": 2,
-      "score": 0.5202,
-      "target_weight": 0.180152,
-      "close": 418.08
+      "industry_member_rank": 3,
+      "score": 0.3438,
+      "target_weight": 0.104347,
+      "close": 345.42
     },
     {
-      "industry": "cloud_network_infra",
+      "industry": "internet_commerce_platforms",
       "industry_rank": 3,
-      "industry_score": 0.5774,
-      "ticker": "CIEN",
-      "name": "Ciena",
+      "industry_score": 0.65,
+      "ticker": "ETSY",
+      "name": "Etsy",
       "industry_member_rank": 1,
-      "score": 0.6132,
-      "target_weight": 0.150385,
-      "close": 520.8
+      "score": 0.3251,
+      "target_weight": 0.169523,
+      "close": 63.17
     }
   ]
 }
