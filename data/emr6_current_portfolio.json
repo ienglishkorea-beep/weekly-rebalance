@@ -1,71 +1,49 @@
 {
-  "as_of_date": "2026-05-01",
+  "as_of_date": "2026-05-08",
   "positions": [
     {
-      "industry": "semiconductor_core",
+      "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.8252,
-      "ticker": "MRVL",
-      "name": "Marvell Technology",
+      "industry_score": 0.8822,
+      "ticker": "DDOG",
+      "name": "Datadog",
       "industry_member_rank": 1,
-      "score": 0.8028,
-      "target_weight": 0.217924,
-      "close": 164.95
+      "score": 0.7383,
+      "target_weight": 0.15299,
+      "close": 200.16
     },
     {
       "industry": "semiconductor_core",
-      "industry_rank": 1,
-      "industry_score": 0.8252,
-      "ticker": "ON",
-      "name": "ON Semiconductor",
-      "industry_member_rank": 2,
-      "score": 0.7073,
-      "target_weight": 0.186402,
-      "close": 103.03
-    },
-    {
-      "industry": "semiconductor_core",
-      "industry_rank": 1,
-      "industry_score": 0.8252,
+      "industry_rank": 2,
+      "industry_score": 0.8672,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "industry_member_rank": 3,
-      "score": 0.6582,
-      "target_weight": 0.166045,
-      "close": 360.54
-    },
-    {
-      "industry": "semicap_eda_ip",
-      "industry_rank": 2,
-      "industry_score": 0.6877,
-      "ticker": "FORM",
-      "name": "FormFactor",
       "industry_member_rank": 1,
-      "score": 0.6581,
-      "target_weight": 0.155758,
-      "close": 137.37
+      "score": 0.8918,
+      "target_weight": 0.18085,
+      "close": 455.19
     },
     {
-      "industry": "semicap_eda_ip",
+      "industry": "semiconductor_core",
       "industry_rank": 2,
-      "industry_score": 0.6877,
-      "ticker": "TER",
-      "name": "Teradyne",
-      "industry_member_rank": 3,
-      "score": 0.3438,
-      "target_weight": 0.104347,
-      "close": 345.42
+      "industry_score": 0.8672,
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "industry_member_rank": 4,
+      "score": 0.671,
+      "target_weight": 0.314862,
+      "close": 170.13
     },
     {
-      "industry": "internet_commerce_platforms",
+      "industry": "electrical_power_grid",
       "industry_rank": 3,
-      "industry_score": 0.65,
-      "ticker": "ETSY",
-      "name": "Etsy",
+      "industry_score": 0.6342,
+      "ticker": "NVT",
+      "name": "nVent Electric",
       "industry_member_rank": 1,
-      "score": 0.3251,
-      "target_weight": 0.169523,
-      "close": 63.17
+      "score": 0.4365,
+      "target_weight": 0.351298,
+      "close": 169.95
     }
   ]
 }

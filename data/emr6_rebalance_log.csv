@@ -118,3 +118,11 @@
 2026-05-01,KEEP,AMD,Advanced Micro Devices,,,,0.166045,semiconductor_core,1.0,0.8252333964916533,0.6582
 2026-05-01,KEEP,FORM,FormFactor,,,,0.155758,semicap_eda_ip,2.0,0.6877060083360801,0.6581
 2026-05-01,KEEP,TER,Teradyne,,,,0.104347,semicap_eda_ip,2.0,0.6877060083360801,0.3438
+2026-05-08,OUT,ON,ON Semiconductor,,,,0.186402,semiconductor_core,2.0,0.8672229540331263,0.7073
+2026-05-08,OUT,FORM,FormFactor,,,,0.155758,semicap_eda_ip,4.0,0.6280132986534146,0.6581
+2026-05-08,OUT,TER,Teradyne,,,,0.104347,semicap_eda_ip,4.0,0.6280132986534146,0.3438
+2026-05-08,OUT,ETSY,Etsy,,,,0.169523,internet_commerce_platforms,6.0,0.6146166780676376,0.3251
+2026-05-08,IN,DDOG,Datadog,,,,0.15299,enterprise_software,1.0,0.8822228030520867,0.7383
+2026-05-08,IN,NVT,nVent Electric,,,,0.351298,electrical_power_grid,3.0,0.634249802596068,0.4365
+2026-05-08,KEEP,AMD,Advanced Micro Devices,,,,0.18085,semiconductor_core,2.0,0.8672229540331263,0.8918
+2026-05-08,KEEP,MRVL,Marvell Technology,,,,0.314862,semiconductor_core,2.0,0.8672229540331263,0.671
