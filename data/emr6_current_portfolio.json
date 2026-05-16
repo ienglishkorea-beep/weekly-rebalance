@@ -1,49 +1,49 @@
 {
-  "as_of_date": "2026-05-08",
+  "as_of_date": "2026-05-15",
   "positions": [
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.8822,
+      "industry_score": 0.8648,
       "ticker": "DDOG",
       "name": "Datadog",
       "industry_member_rank": 1,
-      "score": 0.7383,
-      "target_weight": 0.15299,
-      "close": 200.16
+      "score": 0.6995,
+      "target_weight": 0.185383,
+      "close": 207.98
     },
     {
       "industry": "semiconductor_core",
       "industry_rank": 2,
-      "industry_score": 0.8672,
+      "industry_score": 0.8038,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "industry_member_rank": 1,
-      "score": 0.8918,
-      "target_weight": 0.18085,
-      "close": 455.19
+      "score": 0.7283,
+      "target_weight": 0.206992,
+      "close": 424.1
     },
     {
       "industry": "semiconductor_core",
       "industry_rank": 2,
-      "industry_score": 0.8672,
+      "industry_score": 0.8038,
       "ticker": "MRVL",
       "name": "Marvell Technology",
-      "industry_member_rank": 4,
-      "score": 0.671,
-      "target_weight": 0.314862,
-      "close": 170.13
+      "industry_member_rank": 2,
+      "score": 0.6876,
+      "target_weight": 0.329656,
+      "close": 176.89
     },
     {
-      "industry": "electrical_power_grid",
+      "industry": "cybersecurity",
       "industry_rank": 3,
-      "industry_score": 0.6342,
-      "ticker": "NVT",
-      "name": "nVent Electric",
+      "industry_score": 0.668,
+      "ticker": "FTNT",
+      "name": "Fortinet",
       "industry_member_rank": 1,
-      "score": 0.4365,
-      "target_weight": 0.351298,
-      "close": 169.95
+      "score": 0.5167,
+      "target_weight": 0.277969,
+      "close": 122.78
     }
   ]
 }

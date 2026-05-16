@@ -126,3 +126,8 @@
 2026-05-08,IN,NVT,nVent Electric,,,,0.351298,electrical_power_grid,3.0,0.634249802596068,0.4365
 2026-05-08,KEEP,AMD,Advanced Micro Devices,,,,0.18085,semiconductor_core,2.0,0.8672229540331263,0.8918
 2026-05-08,KEEP,MRVL,Marvell Technology,,,,0.314862,semiconductor_core,2.0,0.8672229540331263,0.671
+2026-05-15,OUT,NVT,nVent Electric,,,,0.351298,electrical_power_grid,6.0,0.5856327967640033,0.4365
+2026-05-15,IN,FTNT,Fortinet,,,,0.277969,cybersecurity,3.0,0.6679831162907766,0.5167
+2026-05-15,KEEP,DDOG,Datadog,,,,0.185383,enterprise_software,1.0,0.8647544952035998,0.6995
+2026-05-15,KEEP,AMD,Advanced Micro Devices,,,,0.206992,semiconductor_core,2.0,0.8037903467572918,0.7283
+2026-05-15,KEEP,MRVL,Marvell Technology,,,,0.329656,semiconductor_core,2.0,0.8037903467572918,0.6876
