@@ -1,49 +1,49 @@
 {
-  "as_of_date": "2026-05-15",
+  "as_of_date": "2026-05-22",
   "positions": [
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.8648,
+      "industry_score": 0.8984,
       "ticker": "DDOG",
       "name": "Datadog",
       "industry_member_rank": 1,
-      "score": 0.6995,
-      "target_weight": 0.185383,
-      "close": 207.98
+      "score": 0.7743,
+      "target_weight": 0.183157,
+      "close": 222.32
     },
     {
       "industry": "semiconductor_core",
       "industry_rank": 2,
-      "industry_score": 0.8038,
+      "industry_score": 0.7519,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "industry_member_rank": 1,
-      "score": 0.7283,
-      "target_weight": 0.206992,
-      "close": 424.1
+      "industry_member_rank": 2,
+      "score": 0.7376,
+      "target_weight": 0.218259,
+      "close": 467.51
     },
     {
       "industry": "semiconductor_core",
       "industry_rank": 2,
-      "industry_score": 0.8038,
+      "industry_score": 0.7519,
       "ticker": "MRVL",
       "name": "Marvell Technology",
-      "industry_member_rank": 2,
-      "score": 0.6876,
-      "target_weight": 0.329656,
-      "close": 176.89
+      "industry_member_rank": 3,
+      "score": 0.6397,
+      "target_weight": 0.312729,
+      "close": 196.33
     },
     {
       "industry": "cybersecurity",
       "industry_rank": 3,
-      "industry_score": 0.668,
+      "industry_score": 0.7267,
       "ticker": "FTNT",
       "name": "Fortinet",
       "industry_member_rank": 1,
-      "score": 0.5167,
-      "target_weight": 0.277969,
-      "close": 122.78
+      "score": 0.6075,
+      "target_weight": 0.285856,
+      "close": 133.93
     }
   ]
 }

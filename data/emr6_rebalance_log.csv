@@ -131,3 +131,7 @@
 2026-05-15,KEEP,DDOG,Datadog,,,,0.185383,enterprise_software,1.0,0.8647544952035998,0.6995
 2026-05-15,KEEP,AMD,Advanced Micro Devices,,,,0.206992,semiconductor_core,2.0,0.8037903467572918,0.7283
 2026-05-15,KEEP,MRVL,Marvell Technology,,,,0.329656,semiconductor_core,2.0,0.8037903467572918,0.6876
+2026-05-22,KEEP,DDOG,Datadog,,,,0.183157,enterprise_software,1.0,0.8984242876350591,0.7743
+2026-05-22,KEEP,AMD,Advanced Micro Devices,,,,0.218259,semiconductor_core,2.0,0.7518840581102828,0.7376
+2026-05-22,KEEP,MRVL,Marvell Technology,,,,0.312729,semiconductor_core,2.0,0.7518840581102828,0.6397
+2026-05-22,KEEP,FTNT,Fortinet,,,,0.285856,cybersecurity,3.0,0.7267335806789817,0.6075
