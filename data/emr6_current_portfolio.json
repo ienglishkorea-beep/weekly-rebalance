@@ -1,49 +1,60 @@
 {
-  "as_of_date": "2026-05-22",
+  "as_of_date": "2026-05-29",
   "positions": [
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.8984,
+      "industry_score": 0.7661,
       "ticker": "DDOG",
       "name": "Datadog",
       "industry_member_rank": 1,
-      "score": 0.7743,
-      "target_weight": 0.183157,
-      "close": 222.32
+      "score": 0.7858,
+      "target_weight": 0.123548,
+      "close": 247.35
     },
     {
-      "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.7519,
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
+      "industry": "enterprise_software",
+      "industry_rank": 1,
+      "industry_score": 0.7661,
+      "ticker": "ORCL",
+      "name": "Oracle",
       "industry_member_rank": 2,
-      "score": 0.7376,
-      "target_weight": 0.218259,
-      "close": 467.51
-    },
-    {
-      "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.7519,
-      "ticker": "MRVL",
-      "name": "Marvell Technology",
-      "industry_member_rank": 3,
-      "score": 0.6397,
-      "target_weight": 0.312729,
-      "close": 196.33
+      "score": 0.397,
+      "target_weight": 0.240708,
+      "close": 225.78
     },
     {
       "industry": "cybersecurity",
-      "industry_rank": 3,
-      "industry_score": 0.7267,
+      "industry_rank": 2,
+      "industry_score": 0.7656,
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "industry_member_rank": 1,
+      "score": 0.5938,
+      "target_weight": 0.297505,
+      "close": 731.0
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 2,
+      "industry_score": 0.7656,
       "ticker": "FTNT",
       "name": "Fortinet",
-      "industry_member_rank": 1,
-      "score": 0.6075,
-      "target_weight": 0.285856,
-      "close": 133.93
+      "industry_member_rank": 3,
+      "score": 0.5605,
+      "target_weight": 0.186787,
+      "close": 137.97
+    },
+    {
+      "industry": "semiconductor_core",
+      "industry_rank": 3,
+      "industry_score": 0.7626,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "industry_member_rank": 2,
+      "score": 0.7134,
+      "target_weight": 0.151452,
+      "close": 516.1
     }
   ]
 }
