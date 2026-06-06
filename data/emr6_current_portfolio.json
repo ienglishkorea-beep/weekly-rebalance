@@ -1,60 +1,71 @@
 {
-  "as_of_date": "2026-05-29",
+  "as_of_date": "2026-06-05",
   "positions": [
     {
-      "industry": "enterprise_software",
-      "industry_rank": 1,
-      "industry_score": 0.7661,
-      "ticker": "DDOG",
-      "name": "Datadog",
-      "industry_member_rank": 1,
-      "score": 0.7858,
-      "target_weight": 0.123548,
-      "close": 247.35
-    },
-    {
-      "industry": "enterprise_software",
-      "industry_rank": 1,
-      "industry_score": 0.7661,
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "industry_member_rank": 2,
-      "score": 0.397,
-      "target_weight": 0.240708,
-      "close": 225.78
-    },
-    {
       "industry": "cybersecurity",
-      "industry_rank": 2,
-      "industry_score": 0.7656,
-      "ticker": "CRWD",
-      "name": "CrowdStrike",
-      "industry_member_rank": 1,
-      "score": 0.5938,
-      "target_weight": 0.297505,
-      "close": 731.0
-    },
-    {
-      "industry": "cybersecurity",
-      "industry_rank": 2,
-      "industry_score": 0.7656,
+      "industry_rank": 1,
+      "industry_score": 0.7253,
       "ticker": "FTNT",
       "name": "Fortinet",
-      "industry_member_rank": 3,
-      "score": 0.5605,
-      "target_weight": 0.186787,
-      "close": 137.97
+      "industry_member_rank": 1,
+      "score": 0.5664,
+      "target_weight": 0.266955,
+      "close": 144.68
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 1,
+      "industry_score": 0.7253,
+      "ticker": "OKTA",
+      "name": "Okta",
+      "industry_member_rank": 2,
+      "score": 0.5305,
+      "target_weight": 0.098626,
+      "close": 118.72
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 1,
+      "industry_score": 0.7253,
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "industry_member_rank": 4,
+      "score": 0.4656,
+      "target_weight": 0.201921,
+      "close": 671.02
     },
     {
       "industry": "semiconductor_core",
-      "industry_rank": 3,
-      "industry_score": 0.7626,
+      "industry_rank": 2,
+      "industry_score": 0.6689,
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "industry_member_rank": 1,
+      "score": 0.8344,
+      "target_weight": 0.098626,
+      "close": 263.47
+    },
+    {
+      "industry": "semiconductor_core",
+      "industry_rank": 2,
+      "industry_score": 0.6689,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "industry_member_rank": 2,
-      "score": 0.7134,
-      "target_weight": 0.151452,
-      "close": 516.1
+      "industry_member_rank": 3,
+      "score": 0.4576,
+      "target_weight": 0.156921,
+      "close": 466.38
+    },
+    {
+      "industry": "enterprise_software",
+      "industry_rank": 3,
+      "industry_score": 0.6231,
+      "ticker": "DDOG",
+      "name": "Datadog",
+      "industry_member_rank": 1,
+      "score": 0.6138,
+      "target_weight": 0.176951,
+      "close": 234.11
     }
   ]
 }
