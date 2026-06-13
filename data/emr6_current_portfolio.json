@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-06-05",
+  "as_of_date": "2026-06-12",
   "positions": [
     {
-      "industry": "cybersecurity",
-      "industry_rank": 1,
-      "industry_score": 0.7253,
-      "ticker": "FTNT",
-      "name": "Fortinet",
-      "industry_member_rank": 1,
-      "score": 0.5664,
-      "target_weight": 0.266955,
-      "close": 144.68
-    },
-    {
-      "industry": "cybersecurity",
-      "industry_rank": 1,
-      "industry_score": 0.7253,
-      "ticker": "OKTA",
-      "name": "Okta",
-      "industry_member_rank": 2,
-      "score": 0.5305,
-      "target_weight": 0.098626,
-      "close": 118.72
-    },
-    {
-      "industry": "cybersecurity",
-      "industry_rank": 1,
-      "industry_score": 0.7253,
-      "ticker": "CRWD",
-      "name": "CrowdStrike",
-      "industry_member_rank": 4,
-      "score": 0.4656,
-      "target_weight": 0.201921,
-      "close": 671.02
-    },
-    {
       "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.6689,
+      "industry_rank": 1,
+      "industry_score": 0.6599,
       "ticker": "MRVL",
       "name": "Marvell Technology",
       "industry_member_rank": 1,
-      "score": 0.8344,
-      "target_weight": 0.098626,
-      "close": 263.47
+      "score": 0.8335,
+      "target_weight": 0.111856,
+      "close": 279.7
     },
     {
       "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.6689,
+      "industry_rank": 1,
+      "industry_score": 0.6599,
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "industry_member_rank": 2,
+      "score": 0.5039,
+      "target_weight": 0.120554,
+      "close": 981.61
+    },
+    {
+      "industry": "semiconductor_core",
+      "industry_rank": 1,
+      "industry_score": 0.6599,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "industry_member_rank": 3,
-      "score": 0.4576,
-      "target_weight": 0.156921,
-      "close": 466.38
+      "score": 0.4789,
+      "target_weight": 0.176602,
+      "close": 511.57
     },
     {
-      "industry": "enterprise_software",
-      "industry_rank": 3,
-      "industry_score": 0.6231,
-      "ticker": "DDOG",
-      "name": "Datadog",
+      "industry": "cybersecurity",
+      "industry_rank": 2,
+      "industry_score": 0.6593,
+      "ticker": "OKTA",
+      "name": "Okta",
       "industry_member_rank": 1,
-      "score": 0.6138,
-      "target_weight": 0.176951,
-      "close": 234.11
+      "score": 0.5128,
+      "target_weight": 0.111856,
+      "close": 116.29
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 2,
+      "industry_score": 0.6593,
+      "ticker": "FTNT",
+      "name": "Fortinet",
+      "industry_member_rank": 2,
+      "score": 0.4168,
+      "target_weight": 0.301866,
+      "close": 146.3
+    },
+    {
+      "industry": "semicap_eda_ip",
+      "industry_rank": 3,
+      "industry_score": 0.6225,
+      "ticker": "KLAC",
+      "name": "KLA",
+      "industry_member_rank": 1,
+      "score": 0.49,
+      "target_weight": 0.177267,
+      "close": 254.54
     }
   ]
 }
