@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-06-18",
+  "as_of_date": "2026-06-26",
   "positions": [
     {
       "industry": "semicap_eda_ip",
       "industry_rank": 1,
-      "industry_score": 0.7533,
+      "industry_score": 0.7172,
       "ticker": "AMAT",
       "name": "Applied Materials",
       "industry_member_rank": 1,
-      "score": 0.5065,
-      "target_weight": 0.200342,
-      "close": 617.11
+      "score": 0.5341,
+      "target_weight": 0.150087,
+      "close": 626.84
     },
     {
       "industry": "semicap_eda_ip",
       "industry_rank": 1,
-      "industry_score": 0.7533,
+      "industry_score": 0.7172,
       "ticker": "KLAC",
       "name": "KLA",
       "industry_member_rank": 2,
-      "score": 0.4923,
-      "target_weight": 0.165749,
-      "close": 259.56
+      "score": 0.447,
+      "target_weight": 0.14635,
+      "close": 248.64
     },
     {
       "industry": "semicap_eda_ip",
       "industry_rank": 1,
-      "industry_score": 0.7533,
+      "industry_score": 0.7172,
       "ticker": "LRCX",
       "name": "Lam Research",
       "industry_member_rank": 3,
-      "score": 0.4401,
-      "target_weight": 0.185723,
-      "close": 389.04
-    },
-    {
-      "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.6829,
-      "ticker": "MRVL",
-      "name": "Marvell Technology",
-      "industry_member_rank": 1,
-      "score": 0.8348,
-      "target_weight": 0.110518,
-      "close": 310.58
-    },
-    {
-      "industry": "semiconductor_core",
-      "industry_rank": 2,
-      "industry_score": 0.6829,
-      "ticker": "MU",
-      "name": "Micron Technology",
-      "industry_member_rank": 2,
-      "score": 0.6077,
-      "target_weight": 0.11656,
-      "close": 1133.99
+      "score": 0.4194,
+      "target_weight": 0.155142,
+      "close": 379.09
     },
     {
       "industry": "digital_ads_platforms",
-      "industry_rank": 3,
-      "industry_score": 0.5817,
+      "industry_rank": 2,
+      "industry_score": 0.6728,
       "ticker": "MGNI",
       "name": "Magnite",
       "industry_member_rank": 1,
-      "score": 0.3927,
-      "target_weight": 0.221108,
-      "close": 17.89
+      "score": 0.4776,
+      "target_weight": 0.200457,
+      "close": 18.73
+    },
+    {
+      "industry": "digital_ads_platforms",
+      "industry_rank": 2,
+      "industry_score": 0.6728,
+      "ticker": "ROKU",
+      "name": "Roku",
+      "industry_member_rank": 2,
+      "score": 0.4013,
+      "target_weight": 0.176552,
+      "close": 135.4
+    },
+    {
+      "industry": "life_science_tools_diagnostics",
+      "industry_rank": 3,
+      "industry_score": 0.6639,
+      "ticker": "TECH",
+      "name": "Bio-Techne",
+      "industry_member_rank": 1,
+      "score": 0.5102,
+      "target_weight": 0.171411,
+      "close": 71.0
     }
   ]
 }
