@@ -1,71 +1,49 @@
 {
-  "as_of_date": "2026-06-26",
+  "as_of_date": "2026-07-02",
   "positions": [
     {
-      "industry": "semicap_eda_ip",
+      "industry": "shipping_marine",
       "industry_rank": 1,
-      "industry_score": 0.7172,
-      "ticker": "AMAT",
-      "name": "Applied Materials",
+      "industry_score": 0.7061,
+      "ticker": "MATX",
+      "name": "Matson",
       "industry_member_rank": 1,
-      "score": 0.5341,
-      "target_weight": 0.150087,
-      "close": 626.84
-    },
-    {
-      "industry": "semicap_eda_ip",
-      "industry_rank": 1,
-      "industry_score": 0.7172,
-      "ticker": "KLAC",
-      "name": "KLA",
-      "industry_member_rank": 2,
-      "score": 0.447,
-      "target_weight": 0.14635,
-      "close": 248.64
-    },
-    {
-      "industry": "semicap_eda_ip",
-      "industry_rank": 1,
-      "industry_score": 0.7172,
-      "ticker": "LRCX",
-      "name": "Lam Research",
-      "industry_member_rank": 3,
-      "score": 0.4194,
-      "target_weight": 0.155142,
-      "close": 379.09
+      "score": 0.3469,
+      "target_weight": 0.462448,
+      "close": 203.53
     },
     {
       "industry": "digital_ads_platforms",
       "industry_rank": 2,
-      "industry_score": 0.6728,
+      "industry_score": 0.6957,
       "ticker": "MGNI",
       "name": "Magnite",
       "industry_member_rank": 1,
-      "score": 0.4776,
-      "target_weight": 0.200457,
-      "close": 18.73
+      "score": 0.6027,
+      "target_weight": 0.228324,
+      "close": 20.38
     },
     {
       "industry": "digital_ads_platforms",
       "industry_rank": 2,
-      "industry_score": 0.6728,
+      "industry_score": 0.6957,
       "ticker": "ROKU",
       "name": "Roku",
       "industry_member_rank": 2,
-      "score": 0.4013,
-      "target_weight": 0.176552,
-      "close": 135.4
+      "score": 0.5262,
+      "target_weight": 0.1926,
+      "close": 142.43
     },
     {
-      "industry": "life_science_tools_diagnostics",
+      "industry": "semiconductor_core",
       "industry_rank": 3,
-      "industry_score": 0.6639,
-      "ticker": "TECH",
-      "name": "Bio-Techne",
+      "industry_score": 0.6438,
+      "ticker": "MU",
+      "name": "Micron Technology",
       "industry_member_rank": 1,
-      "score": 0.5102,
-      "target_weight": 0.171411,
-      "close": 71.0
+      "score": 0.655,
+      "target_weight": 0.116627,
+      "close": 975.56
     }
   ]
 }
