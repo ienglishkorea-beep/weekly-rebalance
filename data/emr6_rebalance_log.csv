@@ -181,3 +181,12 @@
 2026-07-02,IN,MU,Micron Technology,,,,0.116627,semiconductor_core,3.0,0.6438226042483075,0.655
 2026-07-02,KEEP,MGNI,Magnite,,,,0.228324,digital_ads_platforms,2.0,0.6956613836184663,0.6027
 2026-07-02,KEEP,ROKU,Roku,,,,0.1926,digital_ads_platforms,2.0,0.6956613836184663,0.5262
+2026-07-10,OUT,MATX,Matson,,,,0.462448,shipping_marine,6.0,0.620307754612248,0.3469
+2026-07-10,OUT,ROKU,Roku,,,,0.1926,digital_ads_platforms,3.0,0.657588461642925,0.5262
+2026-07-10,OUT,MU,Micron Technology,,,,0.116627,semiconductor_core,8.0,0.6047588261629461,0.655
+2026-07-10,IN,TENB,Tenable,,,,0.110879,cybersecurity,1.0,0.6893837013923024,0.8078
+2026-07-10,IN,VRNS,Varonis Systems,,,,0.16636,cybersecurity,1.0,0.6893837013923024,0.6732
+2026-07-10,IN,PANW,Palo Alto Networks,,,,0.134621,cybersecurity,1.0,0.6893837013923024,0.5732
+2026-07-10,IN,ETSY,Etsy,,,,0.176493,internet_commerce_platforms,2.0,0.6629789617039963,0.4393
+2026-07-10,IN,EBAY,eBay,,,,0.288801,internet_commerce_platforms,2.0,0.6629789617039963,0.285
+2026-07-10,KEEP,MGNI,Magnite,,,,0.122847,digital_ads_platforms,3.0,0.657588461642925,0.5858

@@ -1,49 +1,71 @@
 {
-  "as_of_date": "2026-07-02",
+  "as_of_date": "2026-07-10",
   "positions": [
     {
-      "industry": "shipping_marine",
+      "industry": "cybersecurity",
       "industry_rank": 1,
-      "industry_score": 0.7061,
-      "ticker": "MATX",
-      "name": "Matson",
+      "industry_score": 0.6894,
+      "ticker": "TENB",
+      "name": "Tenable",
       "industry_member_rank": 1,
-      "score": 0.3469,
-      "target_weight": 0.462448,
-      "close": 203.53
+      "score": 0.8078,
+      "target_weight": 0.110879,
+      "close": 39.78
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 1,
+      "industry_score": 0.6894,
+      "ticker": "VRNS",
+      "name": "Varonis Systems",
+      "industry_member_rank": 2,
+      "score": 0.6732,
+      "target_weight": 0.16636,
+      "close": 44.53
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 1,
+      "industry_score": 0.6894,
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
+      "industry_member_rank": 3,
+      "score": 0.5732,
+      "target_weight": 0.134621,
+      "close": 325.91
+    },
+    {
+      "industry": "internet_commerce_platforms",
+      "industry_rank": 2,
+      "industry_score": 0.663,
+      "ticker": "ETSY",
+      "name": "Etsy",
+      "industry_member_rank": 1,
+      "score": 0.4393,
+      "target_weight": 0.176493,
+      "close": 81.05
+    },
+    {
+      "industry": "internet_commerce_platforms",
+      "industry_rank": 2,
+      "industry_score": 0.663,
+      "ticker": "EBAY",
+      "name": "eBay",
+      "industry_member_rank": 2,
+      "score": 0.285,
+      "target_weight": 0.288801,
+      "close": 117.2
     },
     {
       "industry": "digital_ads_platforms",
-      "industry_rank": 2,
-      "industry_score": 0.6957,
+      "industry_rank": 3,
+      "industry_score": 0.6576,
       "ticker": "MGNI",
       "name": "Magnite",
       "industry_member_rank": 1,
-      "score": 0.6027,
-      "target_weight": 0.228324,
-      "close": 20.38
-    },
-    {
-      "industry": "digital_ads_platforms",
-      "industry_rank": 2,
-      "industry_score": 0.6957,
-      "ticker": "ROKU",
-      "name": "Roku",
-      "industry_member_rank": 2,
-      "score": 0.5262,
-      "target_weight": 0.1926,
-      "close": 142.43
-    },
-    {
-      "industry": "semiconductor_core",
-      "industry_rank": 3,
-      "industry_score": 0.6438,
-      "ticker": "MU",
-      "name": "Micron Technology",
-      "industry_member_rank": 1,
-      "score": 0.655,
-      "target_weight": 0.116627,
-      "close": 975.56
+      "score": 0.5858,
+      "target_weight": 0.122847,
+      "close": 20.34
     }
   ]
 }
