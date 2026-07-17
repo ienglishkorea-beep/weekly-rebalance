@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-07-10",
+  "as_of_date": "2026-07-17",
   "positions": [
     {
       "industry": "cybersecurity",
       "industry_rank": 1,
-      "industry_score": 0.6894,
+      "industry_score": 0.7246,
       "ticker": "TENB",
       "name": "Tenable",
       "industry_member_rank": 1,
-      "score": 0.8078,
-      "target_weight": 0.110879,
-      "close": 39.78
+      "score": 0.8336,
+      "target_weight": 0.099158,
+      "close": 39.88
     },
     {
       "industry": "cybersecurity",
       "industry_rank": 1,
-      "industry_score": 0.6894,
+      "industry_score": 0.7246,
       "ticker": "VRNS",
       "name": "Varonis Systems",
       "industry_member_rank": 2,
-      "score": 0.6732,
-      "target_weight": 0.16636,
-      "close": 44.53
+      "score": 0.7603,
+      "target_weight": 0.158895,
+      "close": 47.54
     },
     {
       "industry": "cybersecurity",
       "industry_rank": 1,
-      "industry_score": 0.6894,
+      "industry_score": 0.7246,
       "ticker": "PANW",
       "name": "Palo Alto Networks",
       "industry_member_rank": 3,
-      "score": 0.5732,
-      "target_weight": 0.134621,
-      "close": 325.91
+      "score": 0.6952,
+      "target_weight": 0.13417,
+      "close": 358.68
     },
     {
-      "industry": "internet_commerce_platforms",
+      "industry": "insurance_brokers_pnc",
       "industry_rank": 2,
-      "industry_score": 0.663,
-      "ticker": "ETSY",
-      "name": "Etsy",
+      "industry_score": 0.7098,
+      "ticker": "TRV",
+      "name": "Travelers",
       "industry_member_rank": 1,
-      "score": 0.4393,
-      "target_weight": 0.176493,
-      "close": 81.05
+      "score": 0.4415,
+      "target_weight": 0.205454,
+      "close": 368.98
     },
     {
-      "industry": "internet_commerce_platforms",
+      "industry": "insurance_brokers_pnc",
       "industry_rank": 2,
-      "industry_score": 0.663,
-      "ticker": "EBAY",
-      "name": "eBay",
+      "industry_score": 0.7098,
+      "ticker": "AJG",
+      "name": "Arthur J. Gallagher",
       "industry_member_rank": 2,
-      "score": 0.285,
-      "target_weight": 0.288801,
-      "close": 117.2
+      "score": 0.3601,
+      "target_weight": 0.202097,
+      "close": 253.9
     },
     {
-      "industry": "digital_ads_platforms",
+      "industry": "shipping_marine",
       "industry_rank": 3,
-      "industry_score": 0.6576,
-      "ticker": "MGNI",
-      "name": "Magnite",
+      "industry_score": 0.7057,
+      "ticker": "MATX",
+      "name": "Matson",
       "industry_member_rank": 1,
-      "score": 0.5858,
-      "target_weight": 0.122847,
-      "close": 20.34
+      "score": 0.3961,
+      "target_weight": 0.200227,
+      "close": 222.18
     }
   ]
 }
