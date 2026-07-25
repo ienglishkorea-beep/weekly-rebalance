@@ -199,3 +199,12 @@
 2026-07-17,KEEP,TENB,Tenable,,,,0.099158,cybersecurity,1.0,0.7246184251755483,0.8336
 2026-07-17,KEEP,VRNS,Varonis Systems,,,,0.158895,cybersecurity,1.0,0.7246184251755483,0.7603
 2026-07-17,KEEP,PANW,Palo Alto Networks,,,,0.13417,cybersecurity,1.0,0.7246184251755483,0.6952
+2026-07-24,OUT,TENB,Tenable,,,,0.099158,cybersecurity,5.0,0.6295847334484983,0.8336
+2026-07-24,OUT,VRNS,Varonis Systems,,,,0.158895,cybersecurity,5.0,0.6295847334484983,0.7603
+2026-07-24,OUT,PANW,Palo Alto Networks,,,,0.13417,cybersecurity,5.0,0.6295847334484983,0.6952
+2026-07-24,OUT,AJG,Arthur J. Gallagher,,,,0.202097,insurance_brokers_pnc,3.0,0.6494561820074022,0.3601
+2026-07-24,OUT,MATX,Matson,,,,0.200227,shipping_marine,9.0,0.582385289735199,0.3961
+2026-07-24,IN,ROST,Ross Stores,,,,0.316801,consumer_retail_offprice_auto,1.0,0.6738768447408705,0.2753
+2026-07-24,IN,TECH,Bio-Techne,,,,0.3248,life_science_tools_diagnostics,2.0,0.6538053364247944,0.6031
+2026-07-24,IN,BRKR,Bruker,,,,0.158132,life_science_tools_diagnostics,2.0,0.6538053364247944,0.4823
+2026-07-24,KEEP,TRV,Travelers,,,,0.200266,insurance_brokers_pnc,3.0,0.6494561820074022,0.5027

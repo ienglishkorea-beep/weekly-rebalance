@@ -1,71 +1,49 @@
 {
-  "as_of_date": "2026-07-17",
+  "as_of_date": "2026-07-24",
   "positions": [
     {
-      "industry": "cybersecurity",
+      "industry": "consumer_retail_offprice_auto",
       "industry_rank": 1,
-      "industry_score": 0.7246,
-      "ticker": "TENB",
-      "name": "Tenable",
+      "industry_score": 0.6739,
+      "ticker": "ROST",
+      "name": "Ross Stores",
       "industry_member_rank": 1,
-      "score": 0.8336,
-      "target_weight": 0.099158,
-      "close": 39.88
+      "score": 0.2753,
+      "target_weight": 0.316801,
+      "close": 238.89
     },
     {
-      "industry": "cybersecurity",
-      "industry_rank": 1,
-      "industry_score": 0.7246,
-      "ticker": "VRNS",
-      "name": "Varonis Systems",
+      "industry": "life_science_tools_diagnostics",
+      "industry_rank": 2,
+      "industry_score": 0.6538,
+      "ticker": "TECH",
+      "name": "Bio-Techne",
+      "industry_member_rank": 1,
+      "score": 0.6031,
+      "target_weight": 0.3248,
+      "close": 71.6
+    },
+    {
+      "industry": "life_science_tools_diagnostics",
+      "industry_rank": 2,
+      "industry_score": 0.6538,
+      "ticker": "BRKR",
+      "name": "Bruker",
       "industry_member_rank": 2,
-      "score": 0.7603,
-      "target_weight": 0.158895,
-      "close": 47.54
-    },
-    {
-      "industry": "cybersecurity",
-      "industry_rank": 1,
-      "industry_score": 0.7246,
-      "ticker": "PANW",
-      "name": "Palo Alto Networks",
-      "industry_member_rank": 3,
-      "score": 0.6952,
-      "target_weight": 0.13417,
-      "close": 358.68
+      "score": 0.4823,
+      "target_weight": 0.158132,
+      "close": 60.45
     },
     {
       "industry": "insurance_brokers_pnc",
-      "industry_rank": 2,
-      "industry_score": 0.7098,
+      "industry_rank": 3,
+      "industry_score": 0.6495,
       "ticker": "TRV",
       "name": "Travelers",
       "industry_member_rank": 1,
-      "score": 0.4415,
-      "target_weight": 0.205454,
-      "close": 368.98
-    },
-    {
-      "industry": "insurance_brokers_pnc",
-      "industry_rank": 2,
-      "industry_score": 0.7098,
-      "ticker": "AJG",
-      "name": "Arthur J. Gallagher",
-      "industry_member_rank": 2,
-      "score": 0.3601,
-      "target_weight": 0.202097,
-      "close": 253.9
-    },
-    {
-      "industry": "shipping_marine",
-      "industry_rank": 3,
-      "industry_score": 0.7057,
-      "ticker": "MATX",
-      "name": "Matson",
-      "industry_member_rank": 1,
-      "score": 0.3961,
-      "target_weight": 0.200227,
-      "close": 222.18
+      "score": 0.5027,
+      "target_weight": 0.200266,
+      "close": 387.26
     }
   ]
 }
