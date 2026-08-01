@@ -208,3 +208,10 @@
 2026-07-24,IN,TECH,Bio-Techne,,,,0.3248,life_science_tools_diagnostics,2.0,0.6538053364247944,0.6031
 2026-07-24,IN,BRKR,Bruker,,,,0.158132,life_science_tools_diagnostics,2.0,0.6538053364247944,0.4823
 2026-07-24,KEEP,TRV,Travelers,,,,0.200266,insurance_brokers_pnc,3.0,0.6494561820074022,0.5027
+2026-07-31,OUT,TECH,Bio-Techne,,,,0.3248,life_science_tools_diagnostics,8.0,0.5958161471031299,0.6031
+2026-07-31,OUT,BRKR,Bruker,,,,0.158132,life_science_tools_diagnostics,8.0,0.5958161471031299,0.4823
+2026-07-31,OUT,TRV,Travelers,,,,0.200266,insurance_brokers_pnc,5.0,0.6224955317045627,0.5027
+2026-07-31,IN,DXCM,DexCom,,,,0.130202,medical_devices_tools,1.0,0.7059779362758704,0.5688
+2026-07-31,IN,CSX,CSX,,,,0.267004,transport_logistics_rail,2.0,0.681576075238704,0.3838
+2026-07-31,IN,UNP,Union Pacific,,,,0.286821,transport_logistics_rail,2.0,0.681576075238704,0.3777
+2026-07-31,KEEP,ROST,Ross Stores,,,,0.315973,consumer_retail_offprice_auto,3.0,0.6363201403729827,0.414

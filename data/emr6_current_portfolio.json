@@ -1,49 +1,49 @@
 {
-  "as_of_date": "2026-07-24",
+  "as_of_date": "2026-07-31",
   "positions": [
     {
-      "industry": "consumer_retail_offprice_auto",
+      "industry": "medical_devices_tools",
       "industry_rank": 1,
-      "industry_score": 0.6739,
+      "industry_score": 0.706,
+      "ticker": "DXCM",
+      "name": "DexCom",
+      "industry_member_rank": 1,
+      "score": 0.5688,
+      "target_weight": 0.130202,
+      "close": 83.45
+    },
+    {
+      "industry": "transport_logistics_rail",
+      "industry_rank": 2,
+      "industry_score": 0.6816,
+      "ticker": "CSX",
+      "name": "CSX",
+      "industry_member_rank": 1,
+      "score": 0.3838,
+      "target_weight": 0.267004,
+      "close": 50.4
+    },
+    {
+      "industry": "transport_logistics_rail",
+      "industry_rank": 2,
+      "industry_score": 0.6816,
+      "ticker": "UNP",
+      "name": "Union Pacific",
+      "industry_member_rank": 2,
+      "score": 0.3777,
+      "target_weight": 0.286821,
+      "close": 292.13
+    },
+    {
+      "industry": "consumer_retail_offprice_auto",
+      "industry_rank": 3,
+      "industry_score": 0.6363,
       "ticker": "ROST",
       "name": "Ross Stores",
       "industry_member_rank": 1,
-      "score": 0.2753,
-      "target_weight": 0.316801,
-      "close": 238.89
-    },
-    {
-      "industry": "life_science_tools_diagnostics",
-      "industry_rank": 2,
-      "industry_score": 0.6538,
-      "ticker": "TECH",
-      "name": "Bio-Techne",
-      "industry_member_rank": 1,
-      "score": 0.6031,
-      "target_weight": 0.3248,
-      "close": 71.6
-    },
-    {
-      "industry": "life_science_tools_diagnostics",
-      "industry_rank": 2,
-      "industry_score": 0.6538,
-      "ticker": "BRKR",
-      "name": "Bruker",
-      "industry_member_rank": 2,
-      "score": 0.4823,
-      "target_weight": 0.158132,
-      "close": 60.45
-    },
-    {
-      "industry": "insurance_brokers_pnc",
-      "industry_rank": 3,
-      "industry_score": 0.6495,
-      "ticker": "TRV",
-      "name": "Travelers",
-      "industry_member_rank": 1,
-      "score": 0.5027,
-      "target_weight": 0.200266,
-      "close": 387.26
+      "score": 0.414,
+      "target_weight": 0.315973,
+      "close": 251.07
     }
   ]
 }
