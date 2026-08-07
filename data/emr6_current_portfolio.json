@@ -1,49 +1,71 @@
 {
-  "as_of_date": "2026-07-31",
+  "as_of_date": "2026-08-07",
   "positions": [
     {
-      "industry": "medical_devices_tools",
+      "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.706,
-      "ticker": "DXCM",
-      "name": "DexCom",
+      "industry_score": 0.7396,
+      "ticker": "TEAM",
+      "name": "Atlassian",
       "industry_member_rank": 1,
-      "score": 0.5688,
-      "target_weight": 0.130202,
-      "close": 83.45
+      "score": 0.8096,
+      "target_weight": 0.056881,
+      "close": 149.07
     },
     {
-      "industry": "transport_logistics_rail",
-      "industry_rank": 2,
-      "industry_score": 0.6816,
-      "ticker": "CSX",
-      "name": "CSX",
-      "industry_member_rank": 1,
-      "score": 0.3838,
-      "target_weight": 0.267004,
-      "close": 50.4
-    },
-    {
-      "industry": "transport_logistics_rail",
-      "industry_rank": 2,
-      "industry_score": 0.6816,
-      "ticker": "UNP",
-      "name": "Union Pacific",
+      "industry": "enterprise_software",
+      "industry_rank": 1,
+      "industry_score": 0.7396,
+      "ticker": "MSFT",
+      "name": "Microsoft",
       "industry_member_rank": 2,
-      "score": 0.3777,
-      "target_weight": 0.286821,
-      "close": 292.13
+      "score": 0.4594,
+      "target_weight": 0.118082,
+      "close": 499.99
     },
     {
-      "industry": "consumer_retail_offprice_auto",
-      "industry_rank": 3,
-      "industry_score": 0.6363,
-      "ticker": "ROST",
-      "name": "Ross Stores",
+      "industry": "enterprise_software",
+      "industry_rank": 1,
+      "industry_score": 0.7396,
+      "ticker": "NOW",
+      "name": "ServiceNow",
+      "industry_member_rank": 3,
+      "score": 0.4392,
+      "target_weight": 0.109451,
+      "close": 124.88
+    },
+    {
+      "industry": "industrial_machinery_automation",
+      "industry_rank": 2,
+      "industry_score": 0.6286,
+      "ticker": "ITW",
+      "name": "Illinois Tool Works",
       "industry_member_rank": 1,
-      "score": 0.414,
-      "target_weight": 0.315973,
-      "close": 251.07
+      "score": 0.3686,
+      "target_weight": 0.253635,
+      "close": 296.66
+    },
+    {
+      "industry": "industrial_machinery_automation",
+      "industry_rank": 2,
+      "industry_score": 0.6286,
+      "ticker": "PH",
+      "name": "Parker-Hannifin",
+      "industry_member_rank": 2,
+      "score": 0.3659,
+      "target_weight": 0.219519,
+      "close": 1073.87
+    },
+    {
+      "industry": "life_science_tools_diagnostics",
+      "industry_rank": 3,
+      "industry_score": 0.6199,
+      "ticker": "BIO",
+      "name": "Bio-Rad Laboratories",
+      "industry_member_rank": 1,
+      "score": 0.4713,
+      "target_weight": 0.242432,
+      "close": 352.47
     }
   ]
 }

@@ -215,3 +215,13 @@
 2026-07-31,IN,CSX,CSX,,,,0.267004,transport_logistics_rail,2.0,0.681576075238704,0.3838
 2026-07-31,IN,UNP,Union Pacific,,,,0.286821,transport_logistics_rail,2.0,0.681576075238704,0.3777
 2026-07-31,KEEP,ROST,Ross Stores,,,,0.315973,consumer_retail_offprice_auto,3.0,0.6363201403729827,0.414
+2026-08-07,OUT,DXCM,DexCom,,,,0.130202,medical_devices_tools,8.0,0.567060888660669,0.5688
+2026-08-07,OUT,CSX,CSX,,,,0.267004,transport_logistics_rail,6.0,0.5783118608519427,0.3838
+2026-08-07,OUT,UNP,Union Pacific,,,,0.286821,transport_logistics_rail,6.0,0.5783118608519427,0.3777
+2026-08-07,OUT,ROST,Ross Stores,,,,0.315973,consumer_retail_offprice_auto,15.0,0.5225980014662441,0.414
+2026-08-07,IN,TEAM,Atlassian,,,,0.056881,enterprise_software,1.0,0.7395665771087695,0.8096
+2026-08-07,IN,MSFT,Microsoft,,,,0.118082,enterprise_software,1.0,0.7395665771087695,0.4594
+2026-08-07,IN,NOW,ServiceNow,,,,0.109451,enterprise_software,1.0,0.7395665771087695,0.4392
+2026-08-07,IN,ITW,Illinois Tool Works,,,,0.253635,industrial_machinery_automation,2.0,0.6286237279266084,0.3686
+2026-08-07,IN,PH,Parker-Hannifin,,,,0.219519,industrial_machinery_automation,2.0,0.6286237279266084,0.3659
+2026-08-07,IN,BIO,Bio-Rad Laboratories,,,,0.242432,life_science_tools_diagnostics,3.0,0.6199187116035232,0.4713
