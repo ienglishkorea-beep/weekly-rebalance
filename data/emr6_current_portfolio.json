@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-08-07",
+  "as_of_date": "2026-08-14",
   "positions": [
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.7396,
+      "industry_score": 0.68,
       "ticker": "TEAM",
       "name": "Atlassian",
       "industry_member_rank": 1,
-      "score": 0.8096,
-      "target_weight": 0.056881,
-      "close": 149.07
+      "score": 0.8752,
+      "target_weight": 0.08032,
+      "close": 162.22
     },
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.7396,
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "industry_member_rank": 2,
-      "score": 0.4594,
-      "target_weight": 0.118082,
-      "close": 499.99
-    },
-    {
-      "industry": "enterprise_software",
-      "industry_rank": 1,
-      "industry_score": 0.7396,
+      "industry_score": 0.68,
       "ticker": "NOW",
       "name": "ServiceNow",
-      "industry_member_rank": 3,
-      "score": 0.4392,
-      "target_weight": 0.109451,
-      "close": 124.88
-    },
-    {
-      "industry": "industrial_machinery_automation",
-      "industry_rank": 2,
-      "industry_score": 0.6286,
-      "ticker": "ITW",
-      "name": "Illinois Tool Works",
-      "industry_member_rank": 1,
-      "score": 0.3686,
-      "target_weight": 0.253635,
-      "close": 296.66
-    },
-    {
-      "industry": "industrial_machinery_automation",
-      "industry_rank": 2,
-      "industry_score": 0.6286,
-      "ticker": "PH",
-      "name": "Parker-Hannifin",
       "industry_member_rank": 2,
-      "score": 0.3659,
-      "target_weight": 0.219519,
-      "close": 1073.87
+      "score": 0.4652,
+      "target_weight": 0.162943,
+      "close": 124.0
     },
     {
-      "industry": "life_science_tools_diagnostics",
-      "industry_rank": 3,
-      "industry_score": 0.6199,
-      "ticker": "BIO",
-      "name": "Bio-Rad Laboratories",
+      "industry": "enterprise_software",
+      "industry_rank": 1,
+      "industry_score": 0.68,
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "industry_member_rank": 3,
+      "score": 0.4427,
+      "target_weight": 0.167229,
+      "close": 495.4
+    },
+    {
+      "industry": "shipping_marine",
+      "industry_rank": 2,
+      "industry_score": 0.6655,
+      "ticker": "MATX",
+      "name": "Matson",
       "industry_member_rank": 1,
-      "score": 0.4713,
-      "target_weight": 0.242432,
-      "close": 352.47
+      "score": 0.408,
+      "target_weight": 0.249674,
+      "close": 217.3
+    },
+    {
+      "industry": "shipping_marine",
+      "industry_rank": 2,
+      "industry_score": 0.6655,
+      "ticker": "ZIM",
+      "name": "ZIM Integrated Shipping",
+      "industry_member_rank": 2,
+      "score": 0.4029,
+      "target_weight": 0.205681,
+      "close": 28.14
+    },
+    {
+      "industry": "digital_ads_platforms",
+      "industry_rank": 3,
+      "industry_score": 0.6322,
+      "ticker": "MGNI",
+      "name": "Magnite",
+      "industry_member_rank": 1,
+      "score": 0.6477,
+      "target_weight": 0.134153,
+      "close": 24.73
     }
   ]
 }

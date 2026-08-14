@@ -225,3 +225,12 @@
 2026-08-07,IN,ITW,Illinois Tool Works,,,,0.253635,industrial_machinery_automation,2.0,0.6286237279266084,0.3686
 2026-08-07,IN,PH,Parker-Hannifin,,,,0.219519,industrial_machinery_automation,2.0,0.6286237279266084,0.3659
 2026-08-07,IN,BIO,Bio-Rad Laboratories,,,,0.242432,life_science_tools_diagnostics,3.0,0.6199187116035232,0.4713
+2026-08-14,OUT,ITW,Illinois Tool Works,,,,0.253635,industrial_machinery_automation,8.0,0.5976289704668881,0.3686
+2026-08-14,OUT,PH,Parker-Hannifin,,,,0.219519,industrial_machinery_automation,8.0,0.5976289704668881,0.3659
+2026-08-14,OUT,BIO,Bio-Rad Laboratories,,,,0.242432,life_science_tools_diagnostics,10.0,0.5734335414116675,0.4713
+2026-08-14,IN,MATX,Matson,,,,0.249674,shipping_marine,2.0,0.6655008619055082,0.408
+2026-08-14,IN,ZIM,ZIM Integrated Shipping,,,,0.205681,shipping_marine,2.0,0.6655008619055082,0.4029
+2026-08-14,IN,MGNI,Magnite,,,,0.134153,digital_ads_platforms,3.0,0.6321729837850676,0.6477
+2026-08-14,KEEP,TEAM,Atlassian,,,,0.08032,enterprise_software,1.0,0.6799596294115297,0.8752
+2026-08-14,KEEP,NOW,ServiceNow,,,,0.162943,enterprise_software,1.0,0.6799596294115297,0.4652
+2026-08-14,KEEP,MSFT,Microsoft,,,,0.167229,enterprise_software,1.0,0.6799596294115297,0.4427
