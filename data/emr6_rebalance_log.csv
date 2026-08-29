@@ -243,3 +243,12 @@
 2026-08-21,KEEP,TEAM,Atlassian,,,,0.074742,enterprise_software,1.0,0.6900878587905108,0.9057
 2026-08-21,KEEP,NOW,ServiceNow,,,,0.170856,enterprise_software,1.0,0.6900878587905108,0.3672
 2026-08-21,KEEP,MSFT,Microsoft,,,,0.157226,enterprise_software,1.0,0.6900878587905108,0.3032
+2026-08-27,OUT,SHOP,Shopify,,,,0.112497,internet_commerce_platforms,8.0,0.5535658052728816,0.4354
+2026-08-27,OUT,DASH,DoorDash,,,,0.263263,internet_commerce_platforms,8.0,0.5535658052728816,0.398
+2026-08-27,OUT,MPC,Marathon Petroleum,,,,0.221416,energy_integrated_ep_refining,6.0,0.57088276227426,0.3661
+2026-08-27,IN,OKTA,Okta,,,,0.092175,cybersecurity,2.0,0.6147572081495319,0.5614
+2026-08-27,IN,PANW,Palo Alto Networks,,,,0.162096,cybersecurity,2.0,0.6147572081495319,0.3861
+2026-08-27,IN,SMCI,Super Micro Computer,,,,0.109511,cloud_network_infra,3.0,0.6137214276796282,0.3806
+2026-08-27,KEEP,TEAM,Atlassian,,,,0.081016,enterprise_software,1.0,0.6996613400008366,0.8771
+2026-08-27,KEEP,MSFT,Microsoft,,,,0.368212,enterprise_software,1.0,0.6996613400008366,0.3266
+2026-08-27,KEEP,NOW,ServiceNow,,,,0.18699,enterprise_software,1.0,0.6996613400008366,0.2884

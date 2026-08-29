@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-08-21",
+  "as_of_date": "2026-08-27",
   "positions": [
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.6901,
+      "industry_score": 0.6997,
       "ticker": "TEAM",
       "name": "Atlassian",
       "industry_member_rank": 1,
-      "score": 0.9057,
-      "target_weight": 0.074742,
-      "close": 171.81
+      "score": 0.8771,
+      "target_weight": 0.081016,
+      "close": 185.62
     },
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.6901,
-      "ticker": "NOW",
-      "name": "ServiceNow",
-      "industry_member_rank": 2,
-      "score": 0.3672,
-      "target_weight": 0.170856,
-      "close": 128.48
-    },
-    {
-      "industry": "enterprise_software",
-      "industry_rank": 1,
-      "industry_score": 0.6901,
+      "industry_score": 0.6997,
       "ticker": "MSFT",
       "name": "Microsoft",
+      "industry_member_rank": 3,
+      "score": 0.3266,
+      "target_weight": 0.368212,
+      "close": 505.06
+    },
+    {
+      "industry": "enterprise_software",
+      "industry_rank": 1,
+      "industry_score": 0.6997,
+      "ticker": "NOW",
+      "name": "ServiceNow",
       "industry_member_rank": 4,
-      "score": 0.3032,
-      "target_weight": 0.157226,
-      "close": 483.24
+      "score": 0.2884,
+      "target_weight": 0.18699,
+      "close": 138.43
     },
     {
-      "industry": "internet_commerce_platforms",
+      "industry": "cybersecurity",
       "industry_rank": 2,
-      "industry_score": 0.6186,
-      "ticker": "SHOP",
-      "name": "Shopify",
+      "industry_score": 0.6148,
+      "ticker": "OKTA",
+      "name": "Okta",
       "industry_member_rank": 1,
-      "score": 0.4354,
-      "target_weight": 0.112497,
-      "close": 149.25
+      "score": 0.5614,
+      "target_weight": 0.092175,
+      "close": 172.91
     },
     {
-      "industry": "internet_commerce_platforms",
+      "industry": "cybersecurity",
       "industry_rank": 2,
-      "industry_score": 0.6186,
-      "ticker": "DASH",
-      "name": "DoorDash",
+      "industry_score": 0.6148,
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
       "industry_member_rank": 2,
-      "score": 0.398,
-      "target_weight": 0.263263,
-      "close": 223.49
+      "score": 0.3861,
+      "target_weight": 0.162096,
+      "close": 382.85
     },
     {
-      "industry": "energy_integrated_ep_refining",
+      "industry": "cloud_network_infra",
       "industry_rank": 3,
-      "industry_score": 0.6168,
-      "ticker": "MPC",
-      "name": "Marathon Petroleum",
+      "industry_score": 0.6137,
+      "ticker": "SMCI",
+      "name": "Super Micro Computer",
       "industry_member_rank": 1,
-      "score": 0.3661,
-      "target_weight": 0.221416,
-      "close": 360.72
+      "score": 0.3806,
+      "target_weight": 0.109511,
+      "close": 38.46
     }
   ]
 }
