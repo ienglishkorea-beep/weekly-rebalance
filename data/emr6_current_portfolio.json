@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-08-27",
+  "as_of_date": "2026-09-03",
   "positions": [
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.6997,
+      "industry_score": 0.7176,
       "ticker": "TEAM",
       "name": "Atlassian",
       "industry_member_rank": 1,
-      "score": 0.8771,
-      "target_weight": 0.081016,
-      "close": 185.62
+      "score": 0.9188,
+      "target_weight": 0.051439,
+      "close": 194.68
     },
     {
       "industry": "enterprise_software",
       "industry_rank": 1,
-      "industry_score": 0.6997,
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "industry_member_rank": 3,
-      "score": 0.3266,
-      "target_weight": 0.368212,
-      "close": 505.06
-    },
-    {
-      "industry": "enterprise_software",
-      "industry_rank": 1,
-      "industry_score": 0.6997,
+      "industry_score": 0.7176,
       "ticker": "NOW",
       "name": "ServiceNow",
-      "industry_member_rank": 4,
-      "score": 0.2884,
-      "target_weight": 0.18699,
-      "close": 138.43
+      "industry_member_rank": 3,
+      "score": 0.3638,
+      "target_weight": 0.102182,
+      "close": 145.59
     },
     {
-      "industry": "cybersecurity",
+      "industry": "enterprise_software",
+      "industry_rank": 1,
+      "industry_score": 0.7176,
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "industry_member_rank": 5,
+      "score": 0.2205,
+      "target_weight": 0.27434,
+      "close": 510.12
+    },
+    {
+      "industry": "shipping_marine",
       "industry_rank": 2,
-      "industry_score": 0.6148,
-      "ticker": "OKTA",
-      "name": "Okta",
+      "industry_score": 0.6567,
+      "ticker": "INSW",
+      "name": "International Seaways",
       "industry_member_rank": 1,
-      "score": 0.5614,
-      "target_weight": 0.092175,
-      "close": 172.91
+      "score": 0.3643,
+      "target_weight": 0.176252,
+      "close": 102.24
     },
     {
-      "industry": "cybersecurity",
+      "industry": "shipping_marine",
       "industry_rank": 2,
-      "industry_score": 0.6148,
-      "ticker": "PANW",
-      "name": "Palo Alto Networks",
+      "industry_score": 0.6567,
+      "ticker": "SBLK",
+      "name": "Star Bulk Carriers",
       "industry_member_rank": 2,
-      "score": 0.3861,
-      "target_weight": 0.162096,
-      "close": 382.85
+      "score": 0.3642,
+      "target_weight": 0.209331,
+      "close": 31.87
     },
     {
-      "industry": "cloud_network_infra",
+      "industry": "energy_integrated_ep_refining",
       "industry_rank": 3,
-      "industry_score": 0.6137,
-      "ticker": "SMCI",
-      "name": "Super Micro Computer",
+      "industry_score": 0.6543,
+      "ticker": "MPC",
+      "name": "Marathon Petroleum",
       "industry_member_rank": 1,
-      "score": 0.3806,
-      "target_weight": 0.109511,
-      "close": 38.46
+      "score": 0.5393,
+      "target_weight": 0.186456,
+      "close": 387.71
     }
   ]
 }
