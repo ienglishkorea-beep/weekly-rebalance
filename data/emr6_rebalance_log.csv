@@ -254,10 +254,18 @@
 2026-08-27,KEEP,NOW,ServiceNow,,,,0.18699,enterprise_software,1.0,0.6996613400008366,0.2884
 2026-09-03,OUT,OKTA,Okta,,,,0.092175,cybersecurity,5.0,0.5410068939595949,0.5614
 2026-09-03,OUT,PANW,Palo Alto Networks,,,,0.162096,cybersecurity,5.0,0.5410068939595949,0.3861
-2026-09-03,OUT,SMCI,Super Micro Computer,,,,0.109511,cloud_network_infra,17.0,0.41321114344555965,0.3806
+2026-09-03,OUT,SMCI,Super Micro Computer,,,,0.109511,cloud_network_infra,17.0,0.4132111434455596,0.3806
 2026-09-03,IN,INSW,International Seaways,,,,0.176252,shipping_marine,2.0,0.6567321893295833,0.3643
 2026-09-03,IN,SBLK,Star Bulk Carriers,,,,0.209331,shipping_marine,2.0,0.6567321893295833,0.3642
 2026-09-03,IN,MPC,Marathon Petroleum,,,,0.186456,energy_integrated_ep_refining,3.0,0.6542867973001405,0.5393
 2026-09-03,KEEP,TEAM,Atlassian,,,,0.051439,enterprise_software,1.0,0.7175999987519498,0.9188
 2026-09-03,KEEP,NOW,ServiceNow,,,,0.102182,enterprise_software,1.0,0.7175999987519498,0.3638
 2026-09-03,KEEP,MSFT,Microsoft,,,,0.27434,enterprise_software,1.0,0.7175999987519498,0.2205
+2026-09-10,OUT,NOW,ServiceNow,,,,0.102182,enterprise_software,3.0,0.6025376930504295,0.3638
+2026-09-10,OUT,MSFT,Microsoft,,,,0.27434,enterprise_software,3.0,0.6025376930504295,0.2205
+2026-09-10,IN,ZIM,ZIM Integrated Shipping,,,,0.121557,shipping_marine,1.0,0.720458431072864,0.5694
+2026-09-10,IN,PSX,Phillips 66,,,,0.23442,energy_integrated_ep_refining,2.0,0.6818988174177957,0.5367
+2026-09-10,KEEP,INSW,International Seaways,,,,0.159105,shipping_marine,1.0,0.720458431072864,0.4592
+2026-09-10,KEEP,SBLK,Star Bulk Carriers,,,,0.164621,shipping_marine,1.0,0.720458431072864,0.4411
+2026-09-10,KEEP,MPC,Marathon Petroleum,,,,0.23442,energy_integrated_ep_refining,2.0,0.6818988174177957,0.5621
+2026-09-10,KEEP,TEAM,Atlassian,,,,0.085877,enterprise_software,3.0,0.6025376930504295,0.6695
