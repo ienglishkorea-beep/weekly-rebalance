@@ -269,3 +269,11 @@
 2026-09-10,KEEP,SBLK,Star Bulk Carriers,,,,0.164621,shipping_marine,1.0,0.720458431072864,0.4411
 2026-09-10,KEEP,MPC,Marathon Petroleum,,,,0.23442,energy_integrated_ep_refining,2.0,0.6818988174177957,0.5621
 2026-09-10,KEEP,TEAM,Atlassian,,,,0.085877,enterprise_software,3.0,0.6025376930504295,0.6695
+2026-09-17,OUT,ZIM,ZIM Integrated Shipping,,,,0.121557,shipping_marine,2.0,0.66371414664441,0.5694
+2026-09-17,OUT,MPC,Marathon Petroleum,,,,0.23442,energy_integrated_ep_refining,7.0,0.5284116982113466,0.5621
+2026-09-17,OUT,PSX,Phillips 66,,,,0.23442,energy_integrated_ep_refining,7.0,0.5284116982113466,0.5367
+2026-09-17,OUT,TEAM,Atlassian,,,,0.085877,enterprise_software,4.0,0.6421808958104637,0.6695
+2026-09-17,IN,EBAY,eBay,,,,0.332918,internet_commerce_platforms,1.0,0.7118596983607972,0.3597
+2026-09-17,IN,OKTA,Okta,,,,0.083379,cybersecurity,3.0,0.6446055533366719,0.6496
+2026-09-17,KEEP,INSW,International Seaways,,,,0.284231,shipping_marine,2.0,0.66371414664441,0.4461
+2026-09-17,KEEP,SBLK,Star Bulk Carriers,,,,0.299472,shipping_marine,2.0,0.66371414664441,0.3798
