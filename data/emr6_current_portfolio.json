@@ -1,49 +1,71 @@
 {
-  "as_of_date": "2026-09-17",
+  "as_of_date": "2026-09-24",
   "positions": [
     {
-      "industry": "internet_commerce_platforms",
-      "industry_rank": 1,
-      "industry_score": 0.7119,
-      "ticker": "EBAY",
-      "name": "eBay",
-      "industry_member_rank": 1,
-      "score": 0.3597,
-      "target_weight": 0.332918,
-      "close": 112.9
-    },
-    {
-      "industry": "shipping_marine",
-      "industry_rank": 2,
-      "industry_score": 0.6637,
-      "ticker": "INSW",
-      "name": "International Seaways",
-      "industry_member_rank": 2,
-      "score": 0.4461,
-      "target_weight": 0.284231,
-      "close": 110.53
-    },
-    {
-      "industry": "shipping_marine",
-      "industry_rank": 2,
-      "industry_score": 0.6637,
-      "ticker": "SBLK",
-      "name": "Star Bulk Carriers",
-      "industry_member_rank": 3,
-      "score": 0.3798,
-      "target_weight": 0.299472,
-      "close": 31.75
-    },
-    {
       "industry": "cybersecurity",
-      "industry_rank": 3,
-      "industry_score": 0.6446,
+      "industry_rank": 1,
+      "industry_score": 0.7564,
       "ticker": "OKTA",
       "name": "Okta",
       "industry_member_rank": 1,
-      "score": 0.6496,
-      "target_weight": 0.083379,
-      "close": 190.02
+      "score": 0.7328,
+      "target_weight": 0.071677,
+      "close": 206.64
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 1,
+      "industry_score": 0.7564,
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "industry_member_rank": 2,
+      "score": 0.5973,
+      "target_weight": 0.081355,
+      "close": 259.67
+    },
+    {
+      "industry": "cybersecurity",
+      "industry_rank": 1,
+      "industry_score": 0.7564,
+      "ticker": "ZS",
+      "name": "Zscaler",
+      "industry_member_rank": 3,
+      "score": 0.5462,
+      "target_weight": 0.103253,
+      "close": 214.64
+    },
+    {
+      "industry": "life_science_tools_diagnostics",
+      "industry_rank": 2,
+      "industry_score": 0.5803,
+      "ticker": "RVTY",
+      "name": "Revvity",
+      "industry_member_rank": 1,
+      "score": 0.5025,
+      "target_weight": 0.168825,
+      "close": 150.68
+    },
+    {
+      "industry": "life_science_tools_diagnostics",
+      "industry_rank": 2,
+      "industry_score": 0.5803,
+      "ticker": "IQV",
+      "name": "IQVIA",
+      "industry_member_rank": 2,
+      "score": 0.4209,
+      "target_weight": 0.341717,
+      "close": 275.02
+    },
+    {
+      "industry": "shipping_marine",
+      "industry_rank": 3,
+      "industry_score": 0.5777,
+      "ticker": "INSW",
+      "name": "International Seaways",
+      "industry_member_rank": 1,
+      "score": 0.4256,
+      "target_weight": 0.233173,
+      "close": 104.85
     }
   ]
 }
