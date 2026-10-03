@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-09-24",
+  "as_of_date": "2026-10-02",
   "positions": [
     {
       "industry": "cybersecurity",
       "industry_rank": 1,
-      "industry_score": 0.7564,
+      "industry_score": 0.7014,
       "ticker": "OKTA",
       "name": "Okta",
       "industry_member_rank": 1,
-      "score": 0.7328,
-      "target_weight": 0.071677,
-      "close": 206.64
+      "score": 0.543,
+      "target_weight": 0.125406,
+      "close": 211.49
     },
     {
       "industry": "cybersecurity",
       "industry_rank": 1,
-      "industry_score": 0.7564,
+      "industry_score": 0.7014,
       "ticker": "CRWD",
       "name": "CrowdStrike",
-      "industry_member_rank": 2,
-      "score": 0.5973,
-      "target_weight": 0.081355,
-      "close": 259.67
+      "industry_member_rank": 3,
+      "score": 0.5241,
+      "target_weight": 0.126138,
+      "close": 270.04
     },
     {
       "industry": "cybersecurity",
       "industry_rank": 1,
-      "industry_score": 0.7564,
+      "industry_score": 0.7014,
       "ticker": "ZS",
       "name": "Zscaler",
-      "industry_member_rank": 3,
-      "score": 0.5462,
-      "target_weight": 0.103253,
-      "close": 214.64
-    },
-    {
-      "industry": "life_science_tools_diagnostics",
-      "industry_rank": 2,
-      "industry_score": 0.5803,
-      "ticker": "RVTY",
-      "name": "Revvity",
-      "industry_member_rank": 1,
-      "score": 0.5025,
-      "target_weight": 0.168825,
-      "close": 150.68
-    },
-    {
-      "industry": "life_science_tools_diagnostics",
-      "industry_rank": 2,
-      "industry_score": 0.5803,
-      "ticker": "IQV",
-      "name": "IQVIA",
-      "industry_member_rank": 2,
-      "score": 0.4209,
-      "target_weight": 0.341717,
-      "close": 275.02
+      "industry_member_rank": 4,
+      "score": 0.4157,
+      "target_weight": 0.093936,
+      "close": 196.6
     },
     {
       "industry": "shipping_marine",
-      "industry_rank": 3,
-      "industry_score": 0.5777,
+      "industry_rank": 2,
+      "industry_score": 0.6651,
       "ticker": "INSW",
       "name": "International Seaways",
       "industry_member_rank": 1,
-      "score": 0.4256,
-      "target_weight": 0.233173,
-      "close": 104.85
+      "score": 0.5122,
+      "target_weight": 0.225963,
+      "close": 115.81
+    },
+    {
+      "industry": "shipping_marine",
+      "industry_rank": 2,
+      "industry_score": 0.6651,
+      "ticker": "DAC",
+      "name": "Danaos",
+      "industry_member_rank": 2,
+      "score": 0.4484,
+      "target_weight": 0.297397,
+      "close": 165.15
+    },
+    {
+      "industry": "digital_ads_platforms",
+      "industry_rank": 3,
+      "industry_score": 0.5974,
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "industry_member_rank": 1,
+      "score": 0.475,
+      "target_weight": 0.13116,
+      "close": 728.08
     }
   ]
 }
