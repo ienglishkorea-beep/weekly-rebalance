@@ -293,3 +293,12 @@
 2026-10-02,KEEP,CRWD,CrowdStrike,,,,0.126138,cybersecurity,1.0,0.701359295788628,0.5241
 2026-10-02,KEEP,ZS,Zscaler,,,,0.093936,cybersecurity,1.0,0.701359295788628,0.4157
 2026-10-02,KEEP,INSW,International Seaways,,,,0.225963,shipping_marine,2.0,0.6651141863769634,0.5122
+2026-10-09,OUT,INSW,International Seaways,,,,0.225963,shipping_marine,4.0,0.6361643751694767,0.5122
+2026-10-09,OUT,DAC,Danaos,,,,0.297397,shipping_marine,4.0,0.6361643751694767,0.4484
+2026-10-09,OUT,META,Meta Platforms,,,,0.13116,digital_ads_platforms,15.0,0.503186182938141,0.475
+2026-10-09,IN,RVTY,Revvity,,,,0.170712,life_science_tools_diagnostics,2.0,0.7033263704443894,0.5906
+2026-10-09,IN,A,Agilent Technologies,,,,0.258518,life_science_tools_diagnostics,2.0,0.7033263704443894,0.4611
+2026-10-09,IN,AMT,American Tower,,,,0.205301,reits_infra_real_assets,3.0,0.6906416191278565,0.3125
+2026-10-09,KEEP,ZS,Zscaler,,,,0.101616,cybersecurity,1.0,0.8060249771413575,0.6977
+2026-10-09,KEEP,OKTA,Okta,,,,0.136812,cybersecurity,1.0,0.8060249771413575,0.665
+2026-10-09,KEEP,CRWD,CrowdStrike,,,,0.127042,cybersecurity,1.0,0.8060249771413575,0.5693
