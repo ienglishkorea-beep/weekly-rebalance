@@ -1,71 +1,49 @@
 {
-  "as_of_date": "2026-10-09",
+  "as_of_date": "2026-10-15",
   "positions": [
     {
-      "industry": "cybersecurity",
+      "industry": "semicap_eda_ip",
       "industry_rank": 1,
-      "industry_score": 0.806,
-      "ticker": "ZS",
-      "name": "Zscaler",
+      "industry_score": 0.7437,
+      "ticker": "SNPS",
+      "name": "Synopsys",
       "industry_member_rank": 1,
-      "score": 0.6977,
-      "target_weight": 0.101616,
-      "close": 233.73
+      "score": 0.4304,
+      "target_weight": 0.190118,
+      "close": 468.11
     },
     {
-      "industry": "cybersecurity",
-      "industry_rank": 1,
-      "industry_score": 0.806,
-      "ticker": "OKTA",
-      "name": "Okta",
+      "industry": "internet_commerce_platforms",
+      "industry_rank": 2,
+      "industry_score": 0.7354,
+      "ticker": "SHOP",
+      "name": "Shopify",
+      "industry_member_rank": 1,
+      "score": 0.556,
+      "target_weight": 0.218102,
+      "close": 178.14
+    },
+    {
+      "industry": "internet_commerce_platforms",
+      "industry_rank": 2,
+      "industry_score": 0.7354,
+      "ticker": "ETSY",
+      "name": "Etsy",
       "industry_member_rank": 2,
-      "score": 0.665,
-      "target_weight": 0.136812,
-      "close": 232.13
-    },
-    {
-      "industry": "cybersecurity",
-      "industry_rank": 1,
-      "industry_score": 0.806,
-      "ticker": "CRWD",
-      "name": "CrowdStrike",
-      "industry_member_rank": 4,
-      "score": 0.5693,
-      "target_weight": 0.127042,
-      "close": 275.04
+      "score": 0.3622,
+      "target_weight": 0.226445,
+      "close": 89.18
     },
     {
       "industry": "life_science_tools_diagnostics",
-      "industry_rank": 2,
-      "industry_score": 0.7033,
-      "ticker": "RVTY",
-      "name": "Revvity",
-      "industry_member_rank": 1,
-      "score": 0.5906,
-      "target_weight": 0.170712,
-      "close": 154.18
-    },
-    {
-      "industry": "life_science_tools_diagnostics",
-      "industry_rank": 2,
-      "industry_score": 0.7033,
+      "industry_rank": 3,
+      "industry_score": 0.6114,
       "ticker": "A",
       "name": "Agilent Technologies",
       "industry_member_rank": 2,
-      "score": 0.4611,
-      "target_weight": 0.258518,
-      "close": 170.54
-    },
-    {
-      "industry": "reits_infra_real_assets",
-      "industry_rank": 3,
-      "industry_score": 0.6906,
-      "ticker": "AMT",
-      "name": "American Tower",
-      "industry_member_rank": 1,
-      "score": 0.3125,
-      "target_weight": 0.205301,
-      "close": 182.24
+      "score": 0.3909,
+      "target_weight": 0.365335,
+      "close": 175.55
     }
   ]
 }
