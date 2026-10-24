@@ -311,3 +311,10 @@
 2026-10-15,IN,SHOP,Shopify,,,,0.218102,internet_commerce_platforms,2.0,0.7353550024863139,0.556
 2026-10-15,IN,ETSY,Etsy,,,,0.226445,internet_commerce_platforms,2.0,0.7353550024863139,0.3622
 2026-10-15,KEEP,A,Agilent Technologies,,,,0.365335,life_science_tools_diagnostics,3.0,0.6113542476437515,0.3909
+2026-10-23,OUT,SNPS,Synopsys,,,,0.190118,semicap_eda_ip,,,0.4304
+2026-10-23,OUT,ETSY,Etsy,,,,0.226445,internet_commerce_platforms,3.0,0.599538320535997,0.3622
+2026-10-23,OUT,A,Agilent Technologies,,,,0.365335,life_science_tools_diagnostics,15.0,0.4980223027403645,0.3909
+2026-10-23,IN,LMT,Lockheed Martin,,,,0.24488,aerospace_defense,1.0,0.685396636001381,0.3009
+2026-10-23,IN,MDT,Medtronic,,,,0.273517,medical_devices_tools,2.0,0.6298782123882248,0.3906
+2026-10-23,IN,ISRG,Intuitive Surgical,,,,0.283844,medical_devices_tools,2.0,0.6298782123882248,0.3218
+2026-10-23,KEEP,SHOP,Shopify,,,,0.197759,internet_commerce_platforms,3.0,0.599538320535997,0.3606

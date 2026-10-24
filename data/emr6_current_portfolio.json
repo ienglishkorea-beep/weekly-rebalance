@@ -1,49 +1,49 @@
 {
-  "as_of_date": "2026-10-15",
+  "as_of_date": "2026-10-23",
   "positions": [
     {
-      "industry": "semicap_eda_ip",
+      "industry": "aerospace_defense",
       "industry_rank": 1,
-      "industry_score": 0.7437,
-      "ticker": "SNPS",
-      "name": "Synopsys",
+      "industry_score": 0.6854,
+      "ticker": "LMT",
+      "name": "Lockheed Martin",
       "industry_member_rank": 1,
-      "score": 0.4304,
-      "target_weight": 0.190118,
-      "close": 468.11
+      "score": 0.3009,
+      "target_weight": 0.24488,
+      "close": 604.18
+    },
+    {
+      "industry": "medical_devices_tools",
+      "industry_rank": 2,
+      "industry_score": 0.6299,
+      "ticker": "MDT",
+      "name": "Medtronic",
+      "industry_member_rank": 1,
+      "score": 0.3906,
+      "target_weight": 0.273517,
+      "close": 95.41
+    },
+    {
+      "industry": "medical_devices_tools",
+      "industry_rank": 2,
+      "industry_score": 0.6299,
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical",
+      "industry_member_rank": 2,
+      "score": 0.3218,
+      "target_weight": 0.283844,
+      "close": 452.29
     },
     {
       "industry": "internet_commerce_platforms",
-      "industry_rank": 2,
-      "industry_score": 0.7354,
+      "industry_rank": 3,
+      "industry_score": 0.5995,
       "ticker": "SHOP",
       "name": "Shopify",
       "industry_member_rank": 1,
-      "score": 0.556,
-      "target_weight": 0.218102,
-      "close": 178.14
-    },
-    {
-      "industry": "internet_commerce_platforms",
-      "industry_rank": 2,
-      "industry_score": 0.7354,
-      "ticker": "ETSY",
-      "name": "Etsy",
-      "industry_member_rank": 2,
-      "score": 0.3622,
-      "target_weight": 0.226445,
-      "close": 89.18
-    },
-    {
-      "industry": "life_science_tools_diagnostics",
-      "industry_rank": 3,
-      "industry_score": 0.6114,
-      "ticker": "A",
-      "name": "Agilent Technologies",
-      "industry_member_rank": 2,
-      "score": 0.3909,
-      "target_weight": 0.365335,
-      "close": 175.55
+      "score": 0.3606,
+      "target_weight": 0.197759,
+      "close": 168.68
     }
   ]
 }
