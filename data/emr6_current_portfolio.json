@@ -1,49 +1,49 @@
 {
-  "as_of_date": "2026-10-23",
+  "as_of_date": "2026-10-30",
   "positions": [
     {
-      "industry": "aerospace_defense",
+      "industry": "digital_ads_platforms",
       "industry_rank": 1,
-      "industry_score": 0.6854,
-      "ticker": "LMT",
-      "name": "Lockheed Martin",
+      "industry_score": 0.7881,
+      "ticker": "SPOT",
+      "name": "Spotify",
       "industry_member_rank": 1,
-      "score": 0.3009,
-      "target_weight": 0.24488,
-      "close": 604.18
+      "score": 0.5291,
+      "target_weight": 0.238985,
+      "close": 593.44
     },
     {
-      "industry": "medical_devices_tools",
+      "industry": "cybersecurity",
       "industry_rank": 2,
-      "industry_score": 0.6299,
-      "ticker": "MDT",
-      "name": "Medtronic",
+      "industry_score": 0.7605,
+      "ticker": "TENB",
+      "name": "Tenable",
       "industry_member_rank": 1,
-      "score": 0.3906,
-      "target_weight": 0.273517,
-      "close": 95.41
+      "score": 0.8286,
+      "target_weight": 0.199376,
+      "close": 50.75
     },
     {
-      "industry": "medical_devices_tools",
+      "industry": "cybersecurity",
       "industry_rank": 2,
-      "industry_score": 0.6299,
-      "ticker": "ISRG",
-      "name": "Intuitive Surgical",
+      "industry_score": 0.7605,
+      "ticker": "ZS",
+      "name": "Zscaler",
       "industry_member_rank": 2,
-      "score": 0.3218,
-      "target_weight": 0.283844,
-      "close": 452.29
+      "score": 0.727,
+      "target_weight": 0.205418,
+      "close": 237.83
     },
     {
-      "industry": "internet_commerce_platforms",
+      "industry": "pharma_biotech",
       "industry_rank": 3,
-      "industry_score": 0.5995,
-      "ticker": "SHOP",
-      "name": "Shopify",
+      "industry_score": 0.7279,
+      "ticker": "LLY",
+      "name": "Eli Lilly",
       "industry_member_rank": 1,
-      "score": 0.3606,
-      "target_weight": 0.197759,
-      "close": 168.68
+      "score": 0.5683,
+      "target_weight": 0.35622,
+      "close": 1417.54
     }
   ]
 }

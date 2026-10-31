@@ -318,3 +318,11 @@
 2026-10-23,IN,MDT,Medtronic,,,,0.273517,medical_devices_tools,2.0,0.6298782123882248,0.3906
 2026-10-23,IN,ISRG,Intuitive Surgical,,,,0.283844,medical_devices_tools,2.0,0.6298782123882248,0.3218
 2026-10-23,KEEP,SHOP,Shopify,,,,0.197759,internet_commerce_platforms,3.0,0.599538320535997,0.3606
+2026-10-30,OUT,LMT,Lockheed Martin,,,,0.24488,aerospace_defense,19.0,0.5317307087548949,0.3009
+2026-10-30,OUT,MDT,Medtronic,,,,0.273517,medical_devices_tools,13.0,0.6116991174208491,0.3906
+2026-10-30,OUT,ISRG,Intuitive Surgical,,,,0.283844,medical_devices_tools,13.0,0.6116991174208491,0.3218
+2026-10-30,OUT,SHOP,Shopify,,,,0.197759,internet_commerce_platforms,9.0,0.6338702927603875,0.3606
+2026-10-30,IN,SPOT,Spotify,,,,0.238985,digital_ads_platforms,1.0,0.7880933630269781,0.5291
+2026-10-30,IN,TENB,Tenable,,,,0.199376,cybersecurity,2.0,0.7605124475204762,0.8286
+2026-10-30,IN,ZS,Zscaler,,,,0.205418,cybersecurity,2.0,0.7605124475204762,0.727
+2026-10-30,IN,LLY,Eli Lilly,,,,0.35622,pharma_biotech,3.0,0.7278865274942314,0.5683
