@@ -1,49 +1,71 @@
 {
-  "as_of_date": "2026-10-30",
+  "as_of_date": "2026-11-06",
   "positions": [
     {
-      "industry": "digital_ads_platforms",
+      "industry": "pharma_biotech",
       "industry_rank": 1,
-      "industry_score": 0.7881,
-      "ticker": "SPOT",
-      "name": "Spotify",
+      "industry_score": 0.8168,
+      "ticker": "GILD",
+      "name": "Gilead Sciences",
       "industry_member_rank": 1,
-      "score": 0.5291,
-      "target_weight": 0.238985,
-      "close": 593.44
-    },
-    {
-      "industry": "cybersecurity",
-      "industry_rank": 2,
-      "industry_score": 0.7605,
-      "ticker": "TENB",
-      "name": "Tenable",
-      "industry_member_rank": 1,
-      "score": 0.8286,
-      "target_weight": 0.199376,
-      "close": 50.75
-    },
-    {
-      "industry": "cybersecurity",
-      "industry_rank": 2,
-      "industry_score": 0.7605,
-      "ticker": "ZS",
-      "name": "Zscaler",
-      "industry_member_rank": 2,
-      "score": 0.727,
-      "target_weight": 0.205418,
-      "close": 237.83
+      "score": 0.67,
+      "target_weight": 0.155632,
+      "close": 166.89
     },
     {
       "industry": "pharma_biotech",
-      "industry_rank": 3,
-      "industry_score": 0.7279,
+      "industry_rank": 1,
+      "industry_score": 0.8168,
+      "ticker": "BIIB",
+      "name": "Biogen",
+      "industry_member_rank": 2,
+      "score": 0.6138,
+      "target_weight": 0.157644,
+      "close": 248.35
+    },
+    {
+      "industry": "pharma_biotech",
+      "industry_rank": 1,
+      "industry_score": 0.8168,
       "ticker": "LLY",
       "name": "Eli Lilly",
+      "industry_member_rank": 4,
+      "score": 0.5082,
+      "target_weight": 0.145625,
+      "close": 1354.0
+    },
+    {
+      "industry": "payments_market_infra",
+      "industry_rank": 2,
+      "industry_score": 0.7741,
+      "ticker": "GPN",
+      "name": "Global Payments",
       "industry_member_rank": 1,
-      "score": 0.5683,
-      "target_weight": 0.35622,
-      "close": 1417.54
+      "score": 0.5655,
+      "target_weight": 0.103287,
+      "close": 97.4
+    },
+    {
+      "industry": "payments_market_infra",
+      "industry_rank": 2,
+      "industry_score": 0.7741,
+      "ticker": "MA",
+      "name": "Mastercard",
+      "industry_member_rank": 2,
+      "score": 0.5635,
+      "target_weight": 0.197138,
+      "close": 652.7
+    },
+    {
+      "industry": "reits_infra_real_assets",
+      "industry_rank": 3,
+      "industry_score": 0.7718,
+      "ticker": "EXR",
+      "name": "Extra Space Storage",
+      "industry_member_rank": 1,
+      "score": 0.5233,
+      "target_weight": 0.240675,
+      "close": 159.19
     }
   ]
 }
