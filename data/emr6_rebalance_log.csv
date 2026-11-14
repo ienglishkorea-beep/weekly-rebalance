@@ -335,3 +335,13 @@
 2026-11-06,IN,MA,Mastercard,,,,0.197138,payments_market_infra,2.0,0.7741204052654757,0.5635
 2026-11-06,IN,EXR,Extra Space Storage,,,,0.240675,reits_infra_real_assets,3.0,0.771815619869718,0.5233
 2026-11-06,KEEP,LLY,Eli Lilly,,,,0.145625,pharma_biotech,1.0,0.8168344135865102,0.5082
+2026-11-13,OUT,GILD,Gilead Sciences,,,,0.155632,pharma_biotech,3.0,0.7266733353813518,0.67
+2026-11-13,OUT,BIIB,Biogen,,,,0.157644,pharma_biotech,3.0,0.7266733353813518,0.6138
+2026-11-13,OUT,GPN,Global Payments,,,,0.103287,payments_market_infra,2.0,0.7343874409274734,0.5655
+2026-11-13,OUT,EXR,Extra Space Storage,,,,0.240675,reits_infra_real_assets,6.0,0.6995497453650256,0.5233
+2026-11-13,IN,APP,AppLovin,,,,0.060991,digital_ads_platforms,1.0,0.8620784301692505,0.8921
+2026-11-13,IN,MGNI,Magnite,,,,0.092706,digital_ads_platforms,1.0,0.8620784301692505,0.5992
+2026-11-13,IN,SPOT,Spotify,,,,0.138789,digital_ads_platforms,1.0,0.8620784301692505,0.5892
+2026-11-13,IN,ICE,Intercontinental Exchange,,,,0.23587,payments_market_infra,2.0,0.7343874409274734,0.4789
+2026-11-13,KEEP,MA,Mastercard,,,,0.27002,payments_market_infra,2.0,0.7343874409274734,0.4632
+2026-11-13,KEEP,LLY,Eli Lilly,,,,0.201624,pharma_biotech,3.0,0.7266733353813518,0.5773

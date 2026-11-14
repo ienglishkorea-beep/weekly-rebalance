@@ -1,71 +1,71 @@
 {
-  "as_of_date": "2026-11-06",
+  "as_of_date": "2026-11-13",
   "positions": [
     {
-      "industry": "pharma_biotech",
+      "industry": "digital_ads_platforms",
       "industry_rank": 1,
-      "industry_score": 0.8168,
-      "ticker": "GILD",
-      "name": "Gilead Sciences",
+      "industry_score": 0.8621,
+      "ticker": "APP",
+      "name": "AppLovin",
       "industry_member_rank": 1,
-      "score": 0.67,
-      "target_weight": 0.155632,
-      "close": 166.89
+      "score": 0.8921,
+      "target_weight": 0.060991,
+      "close": 409.1
     },
     {
-      "industry": "pharma_biotech",
+      "industry": "digital_ads_platforms",
       "industry_rank": 1,
-      "industry_score": 0.8168,
-      "ticker": "BIIB",
-      "name": "Biogen",
+      "industry_score": 0.8621,
+      "ticker": "MGNI",
+      "name": "Magnite",
       "industry_member_rank": 2,
-      "score": 0.6138,
-      "target_weight": 0.157644,
-      "close": 248.35
+      "score": 0.5992,
+      "target_weight": 0.092706,
+      "close": 29.29
     },
     {
-      "industry": "pharma_biotech",
+      "industry": "digital_ads_platforms",
       "industry_rank": 1,
-      "industry_score": 0.8168,
-      "ticker": "LLY",
-      "name": "Eli Lilly",
-      "industry_member_rank": 4,
-      "score": 0.5082,
-      "target_weight": 0.145625,
-      "close": 1354.0
+      "industry_score": 0.8621,
+      "ticker": "SPOT",
+      "name": "Spotify",
+      "industry_member_rank": 3,
+      "score": 0.5892,
+      "target_weight": 0.138789,
+      "close": 612.63
     },
     {
       "industry": "payments_market_infra",
       "industry_rank": 2,
-      "industry_score": 0.7741,
-      "ticker": "GPN",
-      "name": "Global Payments",
+      "industry_score": 0.7344,
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange",
       "industry_member_rank": 1,
-      "score": 0.5655,
-      "target_weight": 0.103287,
-      "close": 97.4
+      "score": 0.4789,
+      "target_weight": 0.23587,
+      "close": 178.51
     },
     {
       "industry": "payments_market_infra",
       "industry_rank": 2,
-      "industry_score": 0.7741,
+      "industry_score": 0.7344,
       "ticker": "MA",
       "name": "Mastercard",
-      "industry_member_rank": 2,
-      "score": 0.5635,
-      "target_weight": 0.197138,
-      "close": 652.7
+      "industry_member_rank": 3,
+      "score": 0.4632,
+      "target_weight": 0.27002,
+      "close": 661.19
     },
     {
-      "industry": "reits_infra_real_assets",
+      "industry": "pharma_biotech",
       "industry_rank": 3,
-      "industry_score": 0.7718,
-      "ticker": "EXR",
-      "name": "Extra Space Storage",
-      "industry_member_rank": 1,
-      "score": 0.5233,
-      "target_weight": 0.240675,
-      "close": 159.19
+      "industry_score": 0.7267,
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "industry_member_rank": 2,
+      "score": 0.5773,
+      "target_weight": 0.201624,
+      "close": 1443.5
     }
   ]
 }
