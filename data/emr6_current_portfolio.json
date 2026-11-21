@@ -1,71 +1,49 @@
 {
-  "as_of_date": "2026-11-13",
+  "as_of_date": "2026-11-20",
   "positions": [
     {
-      "industry": "digital_ads_platforms",
+      "industry": "transport_logistics_rail",
       "industry_rank": 1,
-      "industry_score": 0.8621,
-      "ticker": "APP",
-      "name": "AppLovin",
+      "industry_score": 0.7503,
+      "ticker": "UPS",
+      "name": "UPS",
       "industry_member_rank": 1,
-      "score": 0.8921,
-      "target_weight": 0.060991,
-      "close": 409.1
-    },
-    {
-      "industry": "digital_ads_platforms",
-      "industry_rank": 1,
-      "industry_score": 0.8621,
-      "ticker": "MGNI",
-      "name": "Magnite",
-      "industry_member_rank": 2,
-      "score": 0.5992,
-      "target_weight": 0.092706,
-      "close": 29.29
-    },
-    {
-      "industry": "digital_ads_platforms",
-      "industry_rank": 1,
-      "industry_score": 0.8621,
-      "ticker": "SPOT",
-      "name": "Spotify",
-      "industry_member_rank": 3,
-      "score": 0.5892,
-      "target_weight": 0.138789,
-      "close": 612.63
-    },
-    {
-      "industry": "payments_market_infra",
-      "industry_rank": 2,
-      "industry_score": 0.7344,
-      "ticker": "ICE",
-      "name": "Intercontinental Exchange",
-      "industry_member_rank": 1,
-      "score": 0.4789,
-      "target_weight": 0.23587,
-      "close": 178.51
-    },
-    {
-      "industry": "payments_market_infra",
-      "industry_rank": 2,
-      "industry_score": 0.7344,
-      "ticker": "MA",
-      "name": "Mastercard",
-      "industry_member_rank": 3,
-      "score": 0.4632,
-      "target_weight": 0.27002,
-      "close": 661.19
+      "score": 0.4451,
+      "target_weight": 0.239828,
+      "close": 106.22
     },
     {
       "industry": "pharma_biotech",
-      "industry_rank": 3,
-      "industry_score": 0.7267,
+      "industry_rank": 2,
+      "industry_score": 0.7444,
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "industry_member_rank": 1,
+      "score": 0.7092,
+      "target_weight": 0.15387,
+      "close": 920.69
+    },
+    {
+      "industry": "pharma_biotech",
+      "industry_rank": 2,
+      "industry_score": 0.7444,
       "ticker": "LLY",
       "name": "Eli Lilly",
-      "industry_member_rank": 2,
-      "score": 0.5773,
-      "target_weight": 0.201624,
-      "close": 1443.5
+      "industry_member_rank": 4,
+      "score": 0.4973,
+      "target_weight": 0.23757,
+      "close": 1347.11
+    },
+    {
+      "industry": "reits_infra_real_assets",
+      "industry_rank": 3,
+      "industry_score": 0.732,
+      "ticker": "EXR",
+      "name": "Extra Space Storage",
+      "industry_member_rank": 1,
+      "score": 0.5305,
+      "target_weight": 0.368731,
+      "close": 154.91
     }
   ]
 }

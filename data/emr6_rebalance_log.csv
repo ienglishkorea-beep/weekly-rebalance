@@ -345,3 +345,12 @@
 2026-11-13,IN,ICE,Intercontinental Exchange,,,,0.23587,payments_market_infra,2.0,0.7343874409274734,0.4789
 2026-11-13,KEEP,MA,Mastercard,,,,0.27002,payments_market_infra,2.0,0.7343874409274734,0.4632
 2026-11-13,KEEP,LLY,Eli Lilly,,,,0.201624,pharma_biotech,3.0,0.7266733353813518,0.5773
+2026-11-20,OUT,APP,AppLovin,,,,0.060991,digital_ads_platforms,15.0,0.470034732763133,0.8921
+2026-11-20,OUT,MGNI,Magnite,,,,0.092706,digital_ads_platforms,15.0,0.470034732763133,0.5992
+2026-11-20,OUT,SPOT,Spotify,,,,0.138789,digital_ads_platforms,15.0,0.470034732763133,0.5892
+2026-11-20,OUT,ICE,Intercontinental Exchange,,,,0.23587,payments_market_infra,9.0,0.6119483893121066,0.4789
+2026-11-20,OUT,MA,Mastercard,,,,0.27002,payments_market_infra,9.0,0.6119483893121066,0.4632
+2026-11-20,IN,UPS,UPS,,,,0.239828,transport_logistics_rail,1.0,0.7503088808933454,0.4451
+2026-11-20,IN,REGN,Regeneron Pharmaceuticals,,,,0.15387,pharma_biotech,2.0,0.7444215188448214,0.7092
+2026-11-20,IN,EXR,Extra Space Storage,,,,0.368731,reits_infra_real_assets,3.0,0.7320154745751252,0.5305
+2026-11-20,KEEP,LLY,Eli Lilly,,,,0.23757,pharma_biotech,2.0,0.7444215188448214,0.4973
